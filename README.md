@@ -12,14 +12,14 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ---
 
 
-- **Beginners Guide to Video-Question-Answering**
+- [**Beginners Guide to Video-Question-Answering**](#Beginners-Guide-to-Video-Question-Answering)
 -**Publications**
   - Survey/Review Papers
   - Conference/Journal Papers 
 - **Benchmark Datasets**
 - **Current Models on Hugging Face**
 - **Additional Resources**
-- [**Beginners Guide to Video-Question-Answering**](#Beginners-Guide-to-Video-Question-Answering)
+
   
 ---
 ## Beginners Guide to Video Question Answering
