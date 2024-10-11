@@ -28,6 +28,20 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ---
 
+## Suvery/Review Papers
+
+---
+
+## Conference/Jounral Papers 
+
+--
+## Benchmark Datasets
+
+--
+## Current Models on Hugging Face
+
+--
+
 ## :telescope: Additional Resources
 
 1. **[OpenAI Docs](https://platform.openai.com/docs/api-reference/introduction)**
