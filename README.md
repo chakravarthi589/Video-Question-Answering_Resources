@@ -9,6 +9,8 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 </br>
 [Joseph Raj Vishal](https://github.com/joe-rabbit)
 
+---
+
 - **Beginners Guide to Video-Question-Answering**
 - **Publications**
   - Publications by Conference
@@ -17,7 +19,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - **Benchmark Datasets**
 - **Survey Papers**
 - **Additional Resources**
----
+
 
 ---
 
