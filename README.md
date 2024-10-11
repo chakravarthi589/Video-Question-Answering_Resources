@@ -33,6 +33,14 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ## Publications 
 ### Survey/Review Papers <hr/>
 ### Conference/Journal Papers
+- 2024
+- 2023
+- 2022
+- 2021
+- 2020
+- 2019
+- 2018
+- 2017
 
 ---
 ## Datasets
