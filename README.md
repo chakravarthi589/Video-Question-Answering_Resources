@@ -34,8 +34,6 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ## Conference/Jounral Papers 
 #### 2024
-
-<hr/> 
 #### 2023
 #### 2022
 #### 2021
