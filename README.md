@@ -16,6 +16,7 @@ This repository serves as a quick guide focusing on the recent works done in the
 
 ### Github Curators:
 [ Bharatesh Chakravarthi, Ph.D](https://chakravarthi589.github.io/)
+</br>
 [Joseph Raj Vishal](https://github.com/joe-rabbit)
 
 ---
