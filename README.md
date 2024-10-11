@@ -22,14 +22,10 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - [**Beginners Guide to Video-Question-Answering**](#Beginners-Guide-to-Video-Question-Answering)
   
 ---
-
-## :bulb: Beginners Guide to Video-Question-Answering
+## Beginners Guide to Video Question Answering
 
 1. **[Answering Questions from YouTube Videos with OpenAI Whisper and GPT-4 (Medium article)](https://medium.com/@mksupriya2/answering-questions-from-youtube-videos-with-openai-whisper-and-gpt-4-9a0ae11389ba)**
 2. **[Try it out here](https://colab.research.google.com/drive/1qTUr1rYB3L3ZlFyLocWbRKg_HVfLvyvT?usp=sharing)** (Check Additional Resources for API key)
-
----
-## Beginners Guide to Video Question Answering
 
 ## Suvery/Review Papers
 
