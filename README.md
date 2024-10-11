@@ -31,7 +31,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ---
 ## Publications 
-### Survey/Review Papers
+### Survey/Review Papers <hr/>
 ### Conference/Journal Papers
 
 ---
