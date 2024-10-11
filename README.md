@@ -16,9 +16,9 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - [**Publications**](#Publications) <br/>
   - Survey/Review Papers
   - Conference/Journal Papers 
-- **Benchmark Datasets**
-- **Current Models on Hugging Face**
-- **Additional Resources**
+- [**Benchmark Datasets**](#Benchmark-Datasets) <br>
+- [**Current Models on Hugging Face**](#Current-Models-on-Hugging-Face) <br>
+- [**Additional Resources**](#Additional-Resourcese) <br>
 
   
 ---
@@ -51,7 +51,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ---
 
-## :telescope: Additional Resources
+## Additional Resources
 
 1. **[OpenAI Docs](https://platform.openai.com/docs/api-reference/introduction)**
 
