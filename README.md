@@ -4,7 +4,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ### Keywords:
 
-### Github Curators:
+### Curators:
 [ Bharatesh Chakravarthi, Ph.D](https://chakravarthi589.github.io/)
 </br>
 [Joseph Raj Vishal](https://github.com/joe-rabbit)
