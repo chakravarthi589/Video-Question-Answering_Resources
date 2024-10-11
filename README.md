@@ -15,9 +15,9 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 -**Publications**
   - Survey/Review Papers
   - Conference/Journal Papers 
-- **Benchmark Datasets
-- **Current Models on Hugging Face
-- **Additional Resources
+- **Benchmark Datasets**
+- **Current Models on Hugging Face**
+- **Additional Resources**
 
 ---
 
