@@ -11,6 +11,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ---
 
+
 - **Beginners Guide to Video-Question-Answering**
 -**Publications**
   - Survey/Review Papers
@@ -18,7 +19,8 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - **Benchmark Datasets**
 - **Current Models on Hugging Face**
 - **Additional Resources**
-
+- [CVPR 2024](#CVPR-2024)
+  
 ---
 
 ## :bulb: Beginners Guide to Video-Question-Answering
