@@ -29,9 +29,10 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 2. **[Try a quick example on how to use LLMs for Video Question Answering here](https://colab.research.google.com/drive/1qTUr1rYB3L3ZlFyLocWbRKg_HVfLvyvT?usp=sharing)** (Check Additional Resources for API key)
 3.  **[Community  Computer Vision Course (Unit 4) MultiModal Models](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/vlm-intro)**
 
-## Publications 
-
 ---
+## Publications 
+## Survey/Review Papers
+## Conference/Journal Papers
 
 ---
 ## Datasets
