@@ -47,7 +47,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 | [LLaVa](https://llava-vl.github.io/) | [Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/llava) , [GitHub](https://github.com/haotian-liu/LLaVA) |
 | [LITA](https://github.com/NVlabs/LITA) | [GitHub](https://github.com/NVlabs/LITA)|
 |[End2End ChatBot](https://github.com/OpenGVLab/Ask-Anything/tree/main)|[Hugging Face](https://huggingface.co/spaces/OpenGVLab/InternVideo2-Chat-8B-HD) , [GitHub](https://github.com/OpenGVLab/Ask-Anything)|
-|[VideoLLAMA2](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed) , [Hugging Face](https://github.com/DAMO-NLP-SG/VideoLLaMA2)|[GitHub](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)|
+|[VideoLLAMA2](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed) | [Hugging Face](https://github.com/DAMO-NLP-SG/VideoLLaMA2) , [GitHub](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)|
 
 ---
 
