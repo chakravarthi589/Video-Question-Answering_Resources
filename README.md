@@ -19,7 +19,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - **Benchmark Datasets**
 - **Current Models on Hugging Face**
 - **Additional Resources**
-- [CVPR 2024](#CVPR-2024)
+- [**Beginners Guide to Video-Question-Answering**](#CVPR-2024)
   
 ---
 
