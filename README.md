@@ -31,9 +31,23 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ---
 ## Benchmark Datasets
+| Name | Features | Link |
+|------|----------|------|
+|      |          |      |
+---
+## Models
+## Open Source Models
+| Model Name  | Hugging Face Link | GitHub Link |
+|-------------|-------------------|-------------|
+| [InternVL](https://huggingface.co/OpenGVLab) | [Here](https://huggingface.co/OpenGVLab/InternVL2-76B) | [Here](https://github.com/OpenGVLab/InternVL) |
+| [LLaVa](https://llava-vl.github.io/) | [Here](https://huggingface.co/docs/transformers/en/model_doc/llava) | [Here](https://github.com/haotian-liu/LLaVA) |
 
 ---
-## Current Models on Hugging Face
+
+## Models that Require APIs
+| Model Name | API Link |
+|------------|----------|
+| ChatGPT    | [Here](https://platform.openai.com/api-keys) |
 
 ---
 
