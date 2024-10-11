@@ -12,7 +12,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ---
 
 
-- [**Beginners Guide to Video-Question-Answering**](#Beginners-Guide-to-Video-Question-Answering)
+- [**Beginners Guide to Video-Question-Answering**](#Beginners-Guide-to-Video-Question-Answering) <br>
 -**Publications**
   - Survey/Review Papers
   - Conference/Journal Papers 
