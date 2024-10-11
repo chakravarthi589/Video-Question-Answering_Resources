@@ -32,14 +32,9 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ## Publications 
 
 ---
-## Datasets
-| Name | Year|Features | Link |
-=======
-
-## Publications 
 
 ---
-## Benchmark Datasets
+## Datasets
 | Name | Features | Link |
 |------|----------|------|
 |      |          |      |
@@ -54,8 +49,6 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 |[End2End ChatBot](https://github.com/OpenGVLab/Ask-Anything/tree/main)|[Here](https://huggingface.co/spaces/OpenGVLab/InternVideo2-Chat-8B-HD) |[Here](https://github.com/OpenGVLab/Ask-Anything)|
 |[VideoLLAMA2](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed) |[Here](https://github.com/DAMO-NLP-SG/VideoLLaMA2)|[Here](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)|
 
-=======
-
 ---
 
 ## Models that Require APIs
@@ -64,7 +57,6 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 | ChatGPT    | [Here](https://platform.openai.com/api-keys) |
 | Gemini |[Here](https://ai.google.dev/gemini-api/docs/vision?lang=python)|
 | Llama 3.2|[Here](https://docs.llama-api.com/quickstart#llama-3-2-instruct-chat-models-with-vision)|
-=======
 
 
 ---
@@ -77,7 +69,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ---
 
 ### :arrow_heading_up: [Back to Top](#Keywords)
-=======
+
 
 
 
