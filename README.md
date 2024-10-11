@@ -34,13 +34,13 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ## Conference/Jounral Papers 
 
---
+---
 ## Benchmark Datasets
 
---
+---
 ## Current Models on Hugging Face
 
---
+---
 
 ## :telescope: Additional Resources
 
