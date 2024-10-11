@@ -41,13 +41,13 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ---
 ## Models
 ## Open Source Models
-| Model Name  | Hugging Face Link | GitHub Link |
-|-------------|-------------------|-------------|
-| [InternVL](https://huggingface.co/OpenGVLab) | [Here](https://huggingface.co/OpenGVLab/InternVL2-76B) | [Here](https://github.com/OpenGVLab/InternVL) |
-| [LLaVa](https://llava-vl.github.io/) | [Here](https://huggingface.co/docs/transformers/en/model_doc/llava) | [Here](https://github.com/haotian-liu/LLaVA) |
-| [LITA](https://github.com/NVlabs/LITA) | [Not Available](#) | [Here](https://github.com/NVlabs/LITA)|
-|[End2End ChatBot](https://github.com/OpenGVLab/Ask-Anything/tree/main)|[Here](https://huggingface.co/spaces/OpenGVLab/InternVideo2-Chat-8B-HD) |[Here](https://github.com/OpenGVLab/Ask-Anything)|
-|[VideoLLAMA2](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed) |[Here](https://github.com/DAMO-NLP-SG/VideoLLaMA2)|[Here](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)|
+| Model Name  | Links |
+|-------------|-------------------------------|
+| [InternVL](https://huggingface.co/OpenGVLab) | [Hugging Face](https://huggingface.co/OpenGVLab/InternVL2-76B) , [GitHub](https://github.com/OpenGVLab/InternVL) |
+| [LLaVa](https://llava-vl.github.io/) | [Here](https://huggingface.co/docs/transformers/en/model_doc/llava) , [Here](https://github.com/haotian-liu/LLaVA) |
+| [LITA](https://github.com/NVlabs/LITA) | [Not Available](#) , [Here](https://github.com/NVlabs/LITA)|
+|[End2End ChatBot](https://github.com/OpenGVLab/Ask-Anything/tree/main)|[Here](https://huggingface.co/spaces/OpenGVLab/InternVideo2-Chat-8B-HD) ,[Here](https://github.com/OpenGVLab/Ask-Anything)|
+|[VideoLLAMA2](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed) , [Here](https://github.com/DAMO-NLP-SG/VideoLLaMA2)|[Here](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)|
 
 ---
 
