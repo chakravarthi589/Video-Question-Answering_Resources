@@ -25,6 +25,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ## Beginners Guide to Video Question Answering
 
 1. **[Answering Questions from YouTube Videos with OpenAI Whisper and GPT-4 (Medium article)](https://medium.com/@mksupriya2/answering-questions-from-youtube-videos-with-openai-whisper-and-gpt-4-9a0ae11389ba)**
+
 2. **[Try a quick example on how to use LLMs for Video Question Answering here](https://colab.research.google.com/drive/1qTUr1rYB3L3ZlFyLocWbRKg_HVfLvyvT?usp=sharing)** (Check Additional Resources for API key)
 3.  **[Community  Computer Vision Course (Unit 4) MultiModal Models](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/vlm-intro)**
 4.
@@ -33,6 +34,14 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ---
 ## Datasets
 | Name | Year|Features | Link |
+=======
+2. **[Try it out here](https://colab.research.google.com/drive/1qTUr1rYB3L3ZlFyLocWbRKg_HVfLvyvT?usp=sharing)** (Check Additional Resources for API key)
+
+## Publications 
+
+---
+## Benchmark Datasets
+| Name | Features | Link |
 |------|----------|------|
 |      |          |      |
 ---
@@ -42,10 +51,12 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 |-------------|-------------------|-------------|
 | [InternVL](https://huggingface.co/OpenGVLab) | [Here](https://huggingface.co/OpenGVLab/InternVL2-76B) | [Here](https://github.com/OpenGVLab/InternVL) |
 | [LLaVa](https://llava-vl.github.io/) | [Here](https://huggingface.co/docs/transformers/en/model_doc/llava) | [Here](https://github.com/haotian-liu/LLaVA) |
+
 | [LITA](https://github.com/NVlabs/LITA) | [Not Available](#) | [Here](https://github.com/NVlabs/LITA)|
 |[End2End ChatBot](https://github.com/OpenGVLab/Ask-Anything/tree/main)|[Here](https://huggingface.co/spaces/OpenGVLab/InternVideo2-Chat-8B-HD) |[Here](https://github.com/OpenGVLab/Ask-Anything)|
 |[VideoLLAMA2](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed) |[Here](https://github.com/DAMO-NLP-SG/VideoLLaMA2)|[Here](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)|
 
+=======
 
 ---
 
@@ -53,16 +64,27 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 | Model Name | API Link |
 |------------|----------|
 | ChatGPT    | [Here](https://platform.openai.com/api-keys) |
+
 | Gemini |[Here](https://ai.google.dev/gemini-api/docs/vision?lang=python) |
 | Llama 3.2|[Here](https://docs.llama-api.com/quickstart#llama-3-2-instruct-chat-models-with-vision)|
+=======
+
 
 ---
 
 ## Additional Resources
 
 1. **[OpenAI Docs](https://platform.openai.com/docs/api-reference/introduction)**
+
 2. **[Gemini Docs](https://ai.google.dev/gemini-api/docs)**
 3. **[LLAMA Docs](https://docs.llama-api.com/quickstart)**
 ---
 
 ### :arrow_heading_up: [Back to Top](#Keywords)
+=======
+
+
+---
+
+### :arrow_heading_up: [Back to Top](#video-question-answering-resources)
+
