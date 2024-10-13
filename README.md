@@ -31,13 +31,11 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ---
 ## Publications 
-### Survey/Review Papers <hr/>
-#### 2024
--[A Survey on Generative AI and LLM for Video Generative Understanding,and Streaming](https://arxiv.org/abs/2404.16038)
-#### 2021
--[Video Question Answering: a Survey of Models and Datasets (Springer)](https://link.springer.com/article/10.1007/s11036-020-01730-0#ref-CR57)
-#### 2020
--[A survey on VQA:Datasets and approaches(ITCA)](https://doi.org/10.1109/ITCA52113.2020.00069)
+### Survey/Review Papers
+
+- A Survey on Generative AI and LLM for Video Generative Understanding,and Streaming (2024) <a href="https://arxiv.org/abs/2404.16038" target="_blank">[Paper]
+- Video Question Answering: a Survey of Models and Datasets (2021) <a href="https://link.springer.com/article/10.1007/s11036-020-01730-0#ref-CR57" target="_blank">[Paper]
+- A survey on VQA:Datasets and approaches (2020,ITCA) <a href="https://doi.org/10.1109/ITCA52113.2020.00069 target="_blank">[Paper]
 
 ### Conference/Journal Papers
 #### 2024
