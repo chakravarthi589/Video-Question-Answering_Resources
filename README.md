@@ -118,12 +118,12 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ---
 ## Datasets
 |Year| Name | Key Features | Link |
-|20XX|------|----------|------|
-|20XX| TGIF-QA |          |      |
-|20XX| MSVD-QA  |          |      |
-|20XX|  MSRVTT-QA |          |      |
-|20XX|  TVQA |          |      |
-|20XX|  TVQA+  |          |      |
+|------|------|----------|------|
+|| TGIF-QA |          |      |
+|| MSVD-QA  |          |      |
+||  MSRVTT-QA |          |      |
+||  TVQA |          |      |
+||  TVQA+  |          |      |
 |20XX|  MovieQA |          |      |
 |20XX|  EgoQA |          |      |
 |20XX|  NExTQA |          |      |
