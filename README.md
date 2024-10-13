@@ -65,16 +65,10 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - A Simple LLM Framework for Long-Range Video Question-Answering (Preprint)] <a href="https://arxiv.org/abs/2312.17235" target="_blank">[Paper]
 
 #### 2022
-
-- **CVPR**
-  - [Measuring Compositional Consistency for Video Question Answering](https://arxiv.org/abs/2204.07190)
-  - [From Representation to Reasoning: Towards Both Evidence and Commonsense Reasoning for Video Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_From_Representation_to_Reasoning_Towards_Both_Evidence_and_Commonsense_Reasoning_CVPR_2022_paper.pdf)
-
-- **NeurIPS**
-  - [Zero-Shot Video Question Answering via Frozen Bidirectional Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/00d1f03b87a401b1c7957e0cc785d0bc-Paper-Conference.pdf)
-
-- **ACM**
-  - [Dynamic Spatio-Temporal Modular Network for Video Question Answering](https://dl.acm.org/doi/10.1145/3503161.3548061)
+- Measuring Compositional Consistency for Video Question Answering (CVPR) <a href="https://arxiv.org/abs/2204.07190" target="_blank">[Paper]
+- From Representation to Reasoning: Towards Both Evidence and Commonsense Reasoning for Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_From_Representation_to_Reasoning_Towards_Both_Evidence_and_Commonsense_Reasoning_CVPR_2022_paper.pdf" target="_blank">[Paper]
+- Zero-Shot Video Question Answering via Frozen Bidirectional Language Models (NeurIPS) <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/00d1f03b87a401b1c7957e0cc785d0bc-Paper-Conference.pdf" target="_blank">[Paper]
+- Dynamic Spatio-Temporal Modular Network for Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3503161.3548061" target="_blank">[Paper]
 
 #### 2021
 
