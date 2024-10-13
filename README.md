@@ -129,16 +129,11 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - **Other**
   - [Video Question Answering with Spatio-Temporal Reasoning (Springer)](https://link.springer.com/article/10.1007/s11263-019-01189-x)
   - [Spatio-Temporal Relation Reasoning for Video Question Answering (Dissertation, University of British Columbia)](https://open.library.ubc.ca/media/stream/pdf/24/1.0384578/3)
+  - 
 #### 2018
-
-- **CVPR**
-  - [Multimodal Dual Attention Memory for Video Story Question Answering](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf)
-
-- **ACL**
-  - [TVQA: Localized, Compositional Video Question Answering](https://aclanthology.org/D18-1167/)
-
-- **ACM**
-  - [Explore Multi-Step Reasoning in Video Question Answering](https://dl.acm.org/doi/10.1145/3240508.3240563)
+- Multimodal Dual Attention Memory for Video Story Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf" target="_blank">[Paper]
+- TVQA: Localized, Compositional Video Question Answering <a href="https://aclanthology.org/D18-1167/"  target="_blank">[Paper]
+- Explore Multi-Step Reasoning in Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3240508.3240563"  target="_blank">[Paper]
 
 #### 2017
 - A Dataset and Exploration of Models for Understanding Video Data through Fill-in-the-Blank Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Maharaj_A_Dataset_and_CVPR_2017_paper.pdf" target="_blank">[Paper]
