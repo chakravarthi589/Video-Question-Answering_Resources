@@ -119,17 +119,17 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ## Datasets
 |Year| Name | Key Features | Link |
 |20XX|------|----------|------|
-|20XX|  <a href=" "> [TGIF-QA] <a/>   |          |      |
-|20XX|  <a href=" "> [MSVD-QA]  <a/>   |          |      |
-|20XX|  <a href=" "> [MSRVTT-QA] <a/>    |          |      |
-|20XX|  <a href=" "> [TVQA]  <a/>   |          |      |
-|20XX|  <a href=" "> [TVQA+] <a/>    |          |      |
-|20XX|  <a href=" "> [MovieQA] <a/>   |          |      |
-|20XX|  <a href=""> [EgoQA] <a/>   |          |      |
-|20XX|  <a href=" "> [NExTQA] <a/>   |          |      |
-|20XX|  <a href=" "> [LSMDC-QA] <a/>   |          |      |
-|20XX|  <a href=" "> [PororoQA] <a/>   |          |      |
-|20XX| <a href=" "> [MarioQA] <a/>  |          |      |
+|20XX| TGIF-QA |          |      |
+|20XX| MSVD-QA  |          |      |
+|20XX|  MSRVTT-QA |          |      |
+|20XX|  TVQA |          |      |
+|20XX|  TVQA+  |          |      |
+|20XX|  MovieQA |          |      |
+|20XX|  EgoQA |          |      |
+|20XX|  NExTQA |          |      |
+|20XX|  LSMDC-QA |          |      |
+|20XX|  PororoQA |          |      |
+|20XX| MarioQA |          |      |
 
 ---
 ## Models
