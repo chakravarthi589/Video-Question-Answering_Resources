@@ -39,9 +39,9 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ### Conference/Journal Papers
 #### 2024
-- Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (2024, CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
-- MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (2024, CVPR)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
-- Can I Trust Your Answer? Visually Grounded Video Question Answering (2024, CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Can_I_Trust_Your_Answer_Visually_Grounded_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
+- Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
+- MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (CVPR)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
+- Can I Trust Your Answer? Visually Grounded Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Can_I_Trust_Your_Answer_Visually_Grounded_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
 
 - **IEEE Transactions**
   - [Event Graph Guided Compositional Spatial-Temporal Reasoning for Video Question Answering](https://doi.org/10.1109/TIP.2024.3358726)
