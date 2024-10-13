@@ -156,12 +156,10 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - **IJCAI**
   - [Video Question Answering via Hierarchical Spatio-Temporal Attention Networks](https://www.ijcai.org/proceedings/2017/0492.pdf)
 
-  #### 2016
-
-- **CVPR**
-  - [MovieQA: Understanding Stories in Movies through Question-Answering](https://openaccess.thecvf.com/content_cvpr_2016/html/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.html)
-  - [MSR-VTT: A Large Video Description Dataset for Bridging Video and Language](https://doi.org/10.1109/CVPR.2016.571)
-  - [TGIF: A New Dataset and Benchmark on Animated GIF Description](https://openaccess.thecvf.com/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf)
+#### 2016
+- MovieQA: Understanding Stories in Movies through Question-Answering (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2016/html/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.html" target="_blank">[Paper]
+- MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR) <a href="https://doi.org/10.1109/CVPR.2016.571" target="_blank">[Paper]
+- TGIF: A New Dataset and Benchmark on Animated GIF Description (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf" target="_blank">[Paper]
 
 ---
 ## Datasets
