@@ -99,23 +99,14 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 
 #### 2019
+- EgoVQA: An Egocentric Video Question Answering Benchmark Dataset (CVPR) <a href="https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf" target="_blank">[Paper]
+- Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering (AAAI) <a href="https://doi.org/10.1609/aaai.v33i01.33018658" target="_blank">[Paper]
+- Compositional Attention Networks with Two-Stream Fusion for Video Question Answering <a href="https://doi.org/10.1109/TIP.2019.2940677" target="_blank">[Paper]
+- Learning to Reason with Relational Video Representation for Question Answering <a href="https://www.researchgate.net/profile/Truyen-Tran-2/publication/334388370_Neural_Reasoning_Fast_and_Slow_for_Video_Question_Answering/links/5d2c386b92851cf44085055d/Neural-Reasoning-Fast-and-Slow-for-Video-Question-Answering.pdf" target="_blank">[Paper]
+- Video Question Answering with Spatio-Temporal Reasoning <a href="https://link.springer.com/article/10.1007/s11263-019-01189-x" target="_blank">[Paper]
+- Spatio-Temporal Relation Reasoning for Video Question Answering <a href="https://open.library.ubc.ca/media/stream/pdf/24/1.0384578/3" target="_blank">[Paper]
 
-- **CVPR**
-  - [EgoVQA: An Egocentric Video Question Answering Benchmark Dataset](https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf)
-
-- **AAAI**
-  - [Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering](https://doi.org/10.1609/aaai.v33i01.33018658)
-
-- **IEEE**
-  - [Compositional Attention Networks with Two-Stream Fusion for Video Question Answering](https://doi.org/10.1109/TIP.2019.2940677)
-
-- **Preprint**
-  - [Learning to Reason with Relational Video Representation for Question Answering](https://www.researchgate.net/profile/Truyen-Tran-2/publication/334388370_Neural_Reasoning_Fast_and_Slow_for_Video_Question_Answering/links/5d2c386b92851cf44085055d/Neural-Reasoning-Fast-and-Slow-for-Video-Question-Answering.pdf)
-
-- **Other**
-  - [Video Question Answering with Spatio-Temporal Reasoning (Springer)](https://link.springer.com/article/10.1007/s11263-019-01189-x)
-  - [Spatio-Temporal Relation Reasoning for Video Question Answering (Dissertation, University of British Columbia)](https://open.library.ubc.ca/media/stream/pdf/24/1.0384578/3)
-  - 
+  
 #### 2018
 - Multimodal Dual Attention Memory for Video Story Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf" target="_blank">[Paper]
 - TVQA: Localized, Compositional Video Question Answering <a href="https://aclanthology.org/D18-1167/"  target="_blank">[Paper]
