@@ -119,17 +119,17 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 ## Datasets
 |Year| Name | Key Features | Link |
 |20XX|------|----------|------|
-|20XX|  <a href=" " > [TGIF-QA]    |          |      |
-|20XX|  <a href=" " > [MSVD-QA]    |          |      |
-|20XX|  <a href=" " > [MSRVTT-QA]    |          |      |
-|20XX|  <a href=" " > [TVQA]    |          |      |
-|20XX|  <a href=" " > [TVQA+]    |          |      |
-|20XX|  <a href=" " > [MovieQA]   |          |      |
-|20XX|  <a href=" " > [EgoQA]   |          |      |
-|20XX|  <a href=" " > [NExTQA]   |          |      |
-|20XX|  <a href=" " > [LSMDC-QA]   |          |      |
-|20XX|  <a href=" " > [PororoQA]   |          |      |
-|20XX| <a href=" " > [MarioQA]  |          |      |
+|20XX|  <a href=" "> [TGIF-QA] <a/>   |          |      |
+|20XX|  <a href=" "> [MSVD-QA]  <a/>   |          |      |
+|20XX|  <a href=" "> [MSRVTT-QA] <a/>    |          |      |
+|20XX|  <a href=" "> [TVQA]  <a/>   |          |      |
+|20XX|  <a href=" "> [TVQA+] <a/>    |          |      |
+|20XX|  <a href=" "> [MovieQA] <a/>   |          |      |
+|20XX|  <a href=""> [EgoQA] <a/>   |          |      |
+|20XX|  <a href=" "> [NExTQA] <a/>   |          |      |
+|20XX|  <a href=" "> [LSMDC-QA] <a/>   |          |      |
+|20XX|  <a href=" "> [PororoQA] <a/>   |          |      |
+|20XX| <a href=" "> [MarioQA] <a/>  |          |      |
 
 ---
 ## Models
