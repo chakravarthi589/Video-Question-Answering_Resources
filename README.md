@@ -2,16 +2,15 @@
 
 The Video-Question-Answering-Resources repository is a curated guide for both beginners and researchers interested in the field of Video Question Answering (VQA). It provides an organized collection of the most relevant papers, models, datasets, and additional resources to help users understand and contribute to this evolving area. The repository focuses on the intersection of computer vision and natural language processing, particularly how video data can be used to answer complex questions, offering a range of materials from introductory guides to advanced research. (Last Update on 10/11/2024)
 
-### Keywords: 
+## Keywords: 
 Video question answering
 
-### Curators:
+## Curators:
 [ Bharatesh Chakravarthi, Ph.D](https://chakravarthi589.github.io/)
 </br>
 [Joseph Raj Vishal](https://github.com/joe-rabbit)
 
 ---
-
 
 - [**Beginners Guide to Video-Question-Answering**](#Beginners-Guide-to-Video-Question-Answering) <br>
 - [**Publications**](#Publications) <br/>
