@@ -117,19 +117,19 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 ---
 ## Datasets
-| Name | Features | Link |
-|------|----------|------|
-|  TGIF-QA    |          |      |
-|  MSVD-QA    |          |      |
-|  MSRVTT-QA    |          |      |
-|  TVQA    |          |      |
-|  TVQA+    |          |      |
-|  MovieQA   |          |      |
-|  EgoQA   |          |      |
-|  NExTQA   |          |      |
-|  LSMDC-QA   |          |      |
-|  PororoQA   |          |      |
-|  MarioQA  |          |      |
+|Year| Name | Key Features | Link |
+|------|------|----------|------|
+|------|  TGIF-QA    |          |      |
+|------|  MSVD-QA    |          |      |
+|------|  MSRVTT-QA    |          |      |
+|------|  TVQA    |          |      |
+|------|  TVQA+    |          |      |
+|------|  MovieQA   |          |      |
+|------|  EgoQA   |          |      |
+|------|  NExTQA   |          |      |
+|------|  LSMDC-QA   |          |      |
+|------|  PororoQA   |          |      |
+|------|  MarioQA  |          |      |
 
 ---
 ## Models
