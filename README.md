@@ -42,22 +42,18 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (CVPR)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
 - Can I Trust Your Answer? Visually Grounded Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Can_I_Trust_Your_Answer_Visually_Grounded_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
-
-- **IEEE Transactions**
-  - [Event Graph Guided Compositional Spatial-Temporal Reasoning for Video Question Answering](https://doi.org/10.1109/TIP.2024.3358726)
-
-- **Preprints**
-  - [LVBench: An Extreme Long Video Understanding Benchmark](https://ui.adsabs.harvard.edu/link_gateway/2024arXiv240608035W/doi:10.48550/arXiv.2406.08035)
-  - [Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding](https://arxiv.org/abs/2406.10221)
-  - [Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input](https://arxiv.org/abs/2408.15542)
-  - [CinePile: A Long Video Question Answering Dataset and Benchmark](https://arxiv.org/abs/2405.08813)
-  - [Video-Language Alignment via Spatio-Temporal Graph Transformer](https://arxiv.org/abs/2407.11677)
-  - [Neural-Symbolic VideoQA: Learning Compositional Spatio-Temporal Reasoning for Real-world Video Question Answering](https://arxiv.org/abs/2404.04007)
-  - [VideoChat: Chat-Centric Video Understanding](https://arxiv.org/abs/2305.06355)
-  - [LITA: Language Instructed Temporal-Localization Assistant](https://arxiv.org/html/2403.19046v1)
-  - [Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports](https://arxiv.org/abs/2401.01505)
-  - [Videoagent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/abs/2403.10517)
-  - [AMEGO: Active Memory from Long EGOcentric Videos](https://arxiv.org/pdf/2409.10917)
+- Event Graph Guided Compositional Spatial-Temporal Reasoning for Video Question Answering <a href="https://doi.org/10.1109/TIP.2024.3358726"  target="_blank">[Paper]
+- LVBench: An Extreme Long Video Understanding Benchmark <a href="https://ui.adsabs.harvard.edu/link_gateway/2024arXiv240608035W/doi:10.48550/arXiv.2406.08035" target="_blank">[Paper]
+- Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding <a href="https://arxiv.org/abs/2406.10221"  target="_blank">[Paper]
+- Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input <a href="https://arxiv.org/abs/2408.15542"  target="_blank">[Paper]
+- CinePile: A Long Video Question Answering Dataset and Benchmark <a href="https://arxiv.org/abs/2405.08813" target="_blank">[Paper]
+- Video-Language Alignment via Spatio-Temporal Graph Transformer <a href="https://arxiv.org/abs/2407.11677" target="_blank">[Paper]
+- Neural-Symbolic VideoQA: Learning Compositional Spatio-Temporal Reasoning for Real-world Video Question Answering <a href="https://arxiv.org/abs/2404.04007" target="_blank">[Paper]
+- VideoChat: Chat-Centric Video Understanding <a href="https://arxiv.org/abs/2305.06355" target="_blank">[Paper]
+- LITA: Language Instructed Temporal-Localization Assistant <a href="https://arxiv.org/html/2403.19046v1" target="_blank">[Paper]
+- Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports <a href="https://arxiv.org/abs/2401.01505" target="_blank">[Paper]
+- Videoagent: Long-form Video Understanding with Large Language Model as Agent <a href="https://arxiv.org/abs/2403.10517" target="_blank">[Paper]
+- AMEGO: Active Memory from Long EGOcentric Videos <a href="https://arxiv.org/pdf/2409.10917" target="_blank">[Paper]
 
 #### 2023
 
