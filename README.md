@@ -80,22 +80,12 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - TruMan: Trope Understanding in Movies and Animations <a href="https://doi.org/10.1145/3459637.3482018" target="_blank">[Paper]
 
 #### 2020
-
-- **WACV**
-  - [BERT Representations for Video Question Answering](https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html)
-
-- **AAAI**
-  - [KnowIT VQA: Answering Knowledge-Based Questions about Videos](https://doi.org/10.1609/aaai.v34i07.6713)
-  - [Divide and Conquer: Question-Guided Spatio-Temporal Contextual Attention for Video Question Answering](https://doi.org/10.1609/aaai.v34i07.6766)
-
-- **ACL**
-  - [TVQA+: Spatio-Temporal Grounding for Video Question Answering](https://aclanthology.org/2020.acl-main.730/)
-
-- **Preprints**
-  - [Video Question Answering for Surveillance (TechRxiv - Not Peer Reviewed)](https://www.techrxiv.org/users/663145/articles/675946-video-question-answering-for-surveillance)
-
-- **Other**
-  - [The MSR-Video to Text Dataset with Clean Annotations](https://doi.org/10.1016/j.cviu.2022.103581)
+- BERT Representations for Video Question Answering (WACV) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
+- KnowIT VQA: Answering Knowledge-Based Questions about Videos (AAAI) <a href="https://doi.org/10.1609/aaai.v34i07.6713" target="_blank">[Paper]
+- Divide and Conquer: Question-Guided Spatio-Temporal Contextual Attention for Video Question Answering (AAAI) <a href="https://doi.org/10.1609/aaai.v34i07.6766" target="_blank">[Paper]
+- TVQA+: Spatio-Temporal Grounding for Video Question Answering <a href="https://aclanthology.org/2020.acl-main.730/" target="_blank">[Paper]
+- Video Question Answering for Surveillance (TechRxiv - Not Peer Reviewed <a href="https://www.techrxiv.org/users/663145/articles/675946-video-question-answering-for-surveillance" target="_blank">[Paper]
+- The MSR-Video to Text Dataset with Clean Annotations <a href="https://doi.org/10.1016/j.cviu.2022.103581" target="_blank">[Paper]
 
 
 #### 2019
