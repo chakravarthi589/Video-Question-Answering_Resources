@@ -62,9 +62,7 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - Discovering Spatio-Temporal Rationales for Video Question Answering (ICCV) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Discovering_Spatio-Temporal_Rationales_for_Video_Question_Answering_ICCV_2023_paper.html" target="_blank">[Paper]
 - Egoschema: A Diagnostic Benchmark for Very Long-Form Video Language Understanding (NeurIPS) <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf" target="_blank">[Paper]
 - Visual Instruction Tuning (NeurIPS) <a href="https://arxiv.org/abs/2304.08485" target="_blank">[Paper]
-
-- **Preprints**
-  - [A Simple LLM Framework for Long-Range Video Question-Answering (Preprint)](https://arxiv.org/abs/2312.17235)
+- A Simple LLM Framework for Long-Range Video Question-Answering (Preprint)] <a href="https://arxiv.org/abs/2312.17235" target="_blank">[Paper]
 
 #### 2022
 
