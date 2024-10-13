@@ -141,20 +141,12 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
   - [Explore Multi-Step Reasoning in Video Question Answering](https://dl.acm.org/doi/10.1145/3240508.3240563)
 
 #### 2017
-
-- **CVPR**
-  - [A Dataset and Exploration of Models for Understanding Video Data through Fill-in-the-Blank Question Answering](https://openaccess.thecvf.com/content_cvpr_2017/papers/Maharaj_A_Dataset_and_CVPR_2017_paper.pdf)
-  - [MarioQA: Answering Questions by Watching Gameplay](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf)
-
-- **AAAI**
-  - [Leveraging Video Description to Learn Video Question Answering](https://doi.org/10.1609/aaai.v31i1.11238)
-
-- **ACM**
-  - [Video Question Answering via Gradually Refined Attention over Appearance and Motion](https://dl.acm.org/doi/abs/10.1145/3123266.3123427?casa_token=TPImYXpw2zYAAAAA:-yPqs_YzwkfIBEcYHzs0EAWQcprtt0HYrEugKwiYEFfNZMvZ8WqjtjJKFOX3hVwhmIvck-QCUQbHQw)
-  - [DeepStory: Video Story QA by Deep Embedded Memory Networks](https://dl.acm.org/doi/10.5555/3172077.3172168)
-
-- **IJCAI**
-  - [Video Question Answering via Hierarchical Spatio-Temporal Attention Networks](https://www.ijcai.org/proceedings/2017/0492.pdf)
+- A Dataset and Exploration of Models for Understanding Video Data through Fill-in-the-Blank Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Maharaj_A_Dataset_and_CVPR_2017_paper.pdf" target="_blank">[Paper]
+- MarioQA: Answering Questions by Watching Gameplay (CVPR) <a href="https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf" target="_blank">[Paper]
+- Leveraging Video Description to Learn Video Question Answering (AAAI) <a href="https://doi.org/10.1609/aaai.v31i1.11238" target="_blank">[Paper]
+- Video Question Answering via Gradually Refined Attention over Appearance and Motion <a href="https://dl.acm.org/doi/abs/10.1145/3123266.3123427?casa_token=TPImYXpw2zYAAAAA:-yPqs_YzwkfIBEcYHzs0EAWQcprtt0HYrEugKwiYEFfNZMvZ8WqjtjJKFOX3hVwhmIvck-QCUQbHQw" target="_blank">[Paper]
+- DeepStory: Video Story QA by Deep Embedded Memory Networks <a href="https://dl.acm.org/doi/10.5555/3172077.3172168" target="_blank">[Paper]
+- Video Question Answering via Hierarchical Spatio-Temporal Attention Networks <a href="https://www.ijcai.org/proceedings/2017/0492.pdf" target="_blank">[Paper]
 
 #### 2016
 - MovieQA: Understanding Stories in Movies through Question-Answering (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2016/html/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.html" target="_blank">[Paper]
