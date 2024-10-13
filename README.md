@@ -57,16 +57,11 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 
 #### 2023
 
-- **CVPR**
-  - [Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf)
-  - [ANetQA: A Large-Scale Benchmark for Fine-Grained Compositional Reasoning Over Untrimmed Videos](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_ANetQA_A_Large-Scale_Benchmark_for_Fine-Grained_Compositional_Reasoning_Over_Untrimmed_CVPR_2023_paper.pdf)
-
-- **ICCV**
-  - [Discovering Spatio-Temporal Rationales for Video Question Answering](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Discovering_Spatio-Temporal_Rationales_for_Video_Question_Answering_ICCV_2023_paper.html)
-
-- **NeurIPS**
-  - [Egoschema: A Diagnostic Benchmark for Very Long-Form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)
-  - [Visual Instruction Tuning (NeurIPS 2023 - Oral)](https://arxiv.org/abs/2304.08485)
+- Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models (cvpr) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf" target="_blank">[Paper]
+- ANetQA: A Large-Scale Benchmark for Fine-Grained Compositional Reasoning Over Untrimmed Videos (cvpr) <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_ANetQA_A_Large-Scale_Benchmark_for_Fine-Grained_Compositional_Reasoning_Over_Untrimmed_CVPR_2023_paper.pdf" target="_blank">[Paper]
+- Discovering Spatio-Temporal Rationales for Video Question Answering (ICCV) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Discovering_Spatio-Temporal_Rationales_for_Video_Question_Answering_ICCV_2023_paper.html" target="_blank">[Paper]
+- Egoschema: A Diagnostic Benchmark for Very Long-Form Video Language Understanding (NeurIPS) <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf" target="_blank">[Paper]
+- Visual Instruction Tuning (NeurIPS) <a href="https://arxiv.org/abs/2304.08485" target="_blank">[Paper]
 
 - **Preprints**
   - [A Simple LLM Framework for Long-Range Video Question-Answering (Preprint)](https://arxiv.org/abs/2312.17235)
