@@ -71,21 +71,13 @@ The Video-Question-Answering-Resources repository is a curated guide for both be
 - Dynamic Spatio-Temporal Modular Network for Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3503161.3548061" target="_blank">[Paper]
 
 #### 2021
-
-- **CVPR**
-  - [NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf)
-  - [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://doi.ieeecomputersociety.org/10.1109/CVPR46437.2021.00725)
-  - [AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning](https://openaccess.thecvf.com/content/CVPR2021/html/Grunde-McLaughlin_AGQA_A_Benchmark_for_Compositional_Spatio-Temporal_Reasoning_CVPR_2021_paper.html)
-
-- **ICCV**
-  - [On the Hidden Treasure of Dialog in Video Question Answering](https://openaccess.thecvf.com/content/ICCV2021/papers/Engin_On_the_Hidden_Treasure_of_Dialog_in_Video_Question_Answering_ICCV_2021_paper.pdf)
-
-- **AAAI**
-  - [Self-Supervised Pre-training and Contrastive Representation Learning for Multiple-choice Video QA](https://doi.org/10.1609/aaai.v35i14.17556)
-
-- **ACM**
-  - [Hierarchical Conditional Relation Networks for Multimodal Video Question Answering](https://link.springer.com/article/10.1007/s11263-021-01514-3)
-  - [TruMan: Trope Understanding in Movies and Animations](https://doi.org/10.1145/3459637.3482018)
+- NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf" target="_blank">[Paper]
+- Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling (CVPR) <a href="https://doi.ieeecomputersociety.org/10.1109/CVPR46437.2021.00725" target="_blank">[Paper]
+- AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Grunde-McLaughlin_AGQA_A_Benchmark_for_Compositional_Spatio-Temporal_Reasoning_CVPR_2021_paper.html" target="_blank">[Paper]
+- On the Hidden Treasure of Dialog in Video Question Answering (ICCV) <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Engin_On_the_Hidden_Treasure_of_Dialog_in_Video_Question_Answering_ICCV_2021_paper.pdf" target="_blank">[Paper]
+- Self-Supervised Pre-training and Contrastive Representation Learning for Multiple-choice Video QA (AAAI) <a href="https://doi.org/10.1609/aaai.v35i14.17556" target="_blank">[Paper]
+- Hierarchical Conditional Relation Networks for Multimodal Video Question Answering  <a href="https://link.springer.com/article/10.1007/s11263-021-01514-3" target="_blank">[Paper]
+- TruMan: Trope Understanding in Movies and Animations <a href="https://doi.org/10.1145/3459637.3482018" target="_blank">[Paper]
 
 #### 2020
 
