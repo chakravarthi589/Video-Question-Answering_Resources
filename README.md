@@ -119,9 +119,9 @@ Video question answering
 ## Datasets
 |Year| Name | Key Features | Link |
 |------|------|----------|------|
-|| TGIF-QA |          |      |
 || MSVD-QA  |          |      |
 ||  MSRVTT-QA |          |      |
+|2017| TGIF-QA | The TGIF-QA dataset contains 165K question-answer pairs based on animated GIFs, testing video-based Visual Question Answering (VQA) across four question types: Repetition Count, Repeating Action, State Transition, and Frame QA. It emphasizes spatiotemporal reasoning by requiring models to understand spatial and temporal information in videos.         |  [Dataset](https://github.com/YunseokJANG/tgif-qa)    |
 ||  TVQA |          |      |
 ||  TVQA+  |          |      |
 |20XX|  MovieQA |          |      |
