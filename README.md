@@ -56,19 +56,20 @@ Video question answering
 - AMEGO: Active Memory from Long EGOcentric Videos <a href="https://arxiv.org/pdf/2409.10917" target="_blank">[Paper]
 
 #### 2023
-
 - Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models (CVPR) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf" target="_blank">[Paper]
 - ANetQA: A Large-Scale Benchmark for Fine-Grained Compositional Reasoning Over Untrimmed Videos (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_ANetQA_A_Large-Scale_Benchmark_for_Fine-Grained_Compositional_Reasoning_Over_Untrimmed_CVPR_2023_paper.pdf" target="_blank">[Paper]
 - Discovering Spatio-Temporal Rationales for Video Question Answering (ICCV) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Discovering_Spatio-Temporal_Rationales_for_Video_Question_Answering_ICCV_2023_paper.html" target="_blank">[Paper]
 - Egoschema: A Diagnostic Benchmark for Very Long-Form Video Language Understanding (NeurIPS) <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf" target="_blank">[Paper]
 - Visual Instruction Tuning (NeurIPS) <a href="https://arxiv.org/abs/2304.08485" target="_blank">[Paper]
-- A Simple LLM Framework for Long-Range Video Question-Answering (Preprint)] <a href="https://arxiv.org/abs/2312.17235" target="_blank">[Paper]
+- A Simple LLM Framework for Long-Range Video Question-Answering (Preprint) <a href="https://arxiv.org/abs/2312.17235" target="_blank">[Paper]
+- A Large Cross-Modal Video Retrieval Dataset with Reading Comprehension <a href="https://arxiv.org/abs/2305.03347">[Paper]
 
 #### 2022
 - Measuring Compositional Consistency for Video Question Answering (CVPR) <a href="https://arxiv.org/abs/2204.07190" target="_blank">[Paper]
 - From Representation to Reasoning: Towards Both Evidence and Commonsense Reasoning for Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_From_Representation_to_Reasoning_Towards_Both_Evidence_and_Commonsense_Reasoning_CVPR_2022_paper.pdf" target="_blank">[Paper]
 - Zero-Shot Video Question Answering via Frozen Bidirectional Language Models (NeurIPS) <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/00d1f03b87a401b1c7957e0cc785d0bc-Paper-Conference.pdf" target="_blank">[Paper]
 - Dynamic Spatio-Temporal Modular Network for Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3503161.3548061" target="_blank">[Paper]
+- Ego4D:Around the World in 3000 Hours of EgoCentric Video<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf" target="_blank">[Paper]
 
 #### 2021
 - NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf" target="_blank">[Paper]
@@ -84,8 +85,9 @@ Video question answering
 - KnowIT VQA: Answering Knowledge-Based Questions about Videos (AAAI) <a href="https://doi.org/10.1609/aaai.v34i07.6713" target="_blank">[Paper]
 - Divide and Conquer: Question-Guided Spatio-Temporal Contextual Attention for Video Question Answering (AAAI) <a href="https://doi.org/10.1609/aaai.v34i07.6766" target="_blank">[Paper]
 - TVQA+: Spatio-Temporal Grounding for Video Question Answering <a href="https://aclanthology.org/2020.acl-main.730/" target="_blank">[Paper]
-- Video Question Answering for Surveillance (TechRxiv - Not Peer Reviewed <a href="https://www.techrxiv.org/users/663145/articles/675946-video-question-answering-for-surveillance" target="_blank">[Paper]
+- Video Question Answering for Surveillance (TechRxiv - Not Peer Reviewed) <a href="https://www.techrxiv.org/users/663145/articles/675946-video-question-answering-for-surveillance" target="_blank">[Paper]
 - The MSR-Video to Text Dataset with Clean Annotations <a href="https://doi.org/10.1016/j.cviu.2022.103581" target="_blank">[Paper]
+-TVQA: Localized,Compositional Video Question Answering <a href="https://arxiv.org/abs/1809.01696">[Paper]
 
 
 #### 2019
@@ -95,12 +97,15 @@ Video question answering
 - Learning to Reason with Relational Video Representation for Question Answering <a href="https://www.researchgate.net/profile/Truyen-Tran-2/publication/334388370_Neural_Reasoning_Fast_and_Slow_for_Video_Question_Answering/links/5d2c386b92851cf44085055d/Neural-Reasoning-Fast-and-Slow-for-Video-Question-Answering.pdf" target="_blank">[Paper]
 - Video Question Answering with Spatio-Temporal Reasoning <a href="https://link.springer.com/article/10.1007/s11263-019-01189-x" target="_blank">[Paper]
 - Spatio-Temporal Relation Reasoning for Video Question Answering <a href="https://open.library.ubc.ca/media/stream/pdf/24/1.0384578/3" target="_blank">[Paper]
-
+- Moments in Time Dataset: one million videos for event understanding <a href="http://moments.csail.mit.edu/TPAMI.2019.2901464.pdf">[Paper]
   
 #### 2018
 - Multimodal Dual Attention Memory for Video Story Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf" target="_blank">[Paper]
 - TVQA: Localized, Compositional Video Question Answering <a href="https://aclanthology.org/D18-1167/"  target="_blank">[Paper]
 - Explore Multi-Step Reasoning in Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3240508.3240563"  target="_blank">[Paper]
+- Towards Automatic Learning of Procedures From Web Instructional Videos <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17344">[Paper]
+- Weakly-Supervised Video Object Grounding from Text by Loss Weighting and Object Interaction <a href="http://bmvc2018.org/contents/papers/0070.pdf">[Paper]
+- On the effectiveness of task granularity for transfer learning <a href="https://arxiv.org/abs/1804.09235">[Paper]
 
 #### 2017
 - A Dataset and Exploration of Models for Understanding Video Data through Fill-in-the-Blank Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Maharaj_A_Dataset_and_CVPR_2017_paper.pdf" target="_blank">[Paper]
@@ -109,6 +114,7 @@ Video question answering
 - Video Question Answering via Gradually Refined Attention over Appearance and Motion <a href="https://dl.acm.org/doi/abs/10.1145/3123266.3123427?casa_token=TPImYXpw2zYAAAAA:-yPqs_YzwkfIBEcYHzs0EAWQcprtt0HYrEugKwiYEFfNZMvZ8WqjtjJKFOX3hVwhmIvck-QCUQbHQw" target="_blank">[Paper]
 - DeepStory: Video Story QA by Deep Embedded Memory Networks <a href="https://dl.acm.org/doi/10.5555/3172077.3172168" target="_blank">[Paper]
 - Video Question Answering via Hierarchical Spatio-Temporal Attention Networks <a href="https://www.ijcai.org/proceedings/2017/0492.pdf" target="_blank">[Paper]
+- The "something something" video database for learning and evaluating visual common sense <a href="https://arxiv.org/abs/1706.04261">[Paper]
 
 #### 2016
 - MovieQA: Understanding Stories in Movies through Question-Answering (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2016/html/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.html" target="_blank">[Paper]
@@ -119,18 +125,24 @@ Video question answering
 ## Datasets
 |Year| Name | Key Features | Link |
 |------|------|----------|------|
-|| MSVD-QA  |          |      |
-||  MSRVTT-QA |          |      |
-|2017| TGIF-QA | The TGIF-QA dataset contains 165K question-answer pairs based on animated GIFs, testing video-based Visual Question Answering (VQA) across four question types: Repetition Count, Repeating Action, State Transition, and Frame QA. It emphasizes spatiotemporal reasoning by requiring models to understand spatial and temporal information in videos.         |  [Dataset](https://github.com/YunseokJANG/tgif-qa)    |
-||  TVQA |          |      |
-||  TVQA+  |          |      |
-|20XX|  MovieQA |          |      |
-|20XX|  EgoQA |          |      |
-|20XX|  NExTQA |          |      |
-|20XX|  LSMDC-QA |          |      |
-|20XX|  PororoQA |          |      |
-|20XX| MarioQA |          |      |
-
+|2014|Activity Net |**ActivityNet** is a large-scale video benchmark for human activity understanding. ActivityNet aims at covering a wide range of complex human activities that are of interest to people in their daily living. In its current version, ActivityNet provides samples from**203 activity classes** with an average of **137 untrimmed videos** per class and **1.41 activity  instances** per video, for a total of **849 video hours**. | [Data](http://activity-net.org/download.html)|
+|2016| MSVD-QA  | The **MSVD-QA** dataset is a Video Question Answering (VideoQA) dataset derived from the **Microsoft Research Video Description (MSVD)** dataset, which includes around 120K sentences describing over 2,000 video snippets. In MSVD-QA, Question-Answer pairs are created from these descriptions. While primarily used for video captioning tasks, its large size also makes it useful for VideoQA. The dataset includes **1,970 video clips** and approximately **50.5K QA pairs**.         |[Data](https://github.com/xudejing/video-question-answering?tab=readme-ov-file)      |
+|2016|  MSRVTT-QA |**MSRVTT-QA** consists of **10K web video clips** with a total duration of **41.2 hours**.It spans **200k clip-sentence pairs**.Each video clips is annotated with about **20 natural sentences.**         |[Data](https://github.com/xudejing/video-question-answering?tab=readme-ov-file)      |
+|2016|  MovieQA | The **MovieQA dataset** is designed for movie question answering, aimed at evaluating automatic story comprehension through both video and text. It contains nearly **15,000 multiple-choice questions** derived from over **400 movies**, offering a wide range of semantic diversity. Each question is accompanied by **five plausible answers**, with only one being correct. The questions can be answered using various sources of information, including **movie clips, plots, subtitles**, and for some examples, **scripts and Descriptive Video Service (DVS)**.   |[Data](https://github.com/makarandtapaswi/MovieQA_benchmark?tab=readme-ov-file)|
+|2016|  PororoQA |The children's cartoon series **"Pororo"** features a simple story structure with episodes averaging **7.2 minutes**, where similar events are frequently repeated. Set in small environments, the series includes **13 characters** and a vocabulary of **3,729 words**, making it suitable as a test bed for video story question answering (QA) tasks. The dataset comprises **8,834 QA pairs**, with an average of **51.66 questions per episode**, excluding ambiguous or unrelated questions.          |[Data](https://github.com/Kyung-Min/PororoQA)      |
+|2017| TGIF-QA |  **TGIF-QA** , a large scale dataset contains **165K question-answer** pairs based on animated GIFs, testing video-based Visual Question Answering (VQA) across four question types: Repetition Count, Repeating Action, State Transition, and Frame QA. It emphasizes spatio-temporal reasoning by requiring models to understand both spatial and temporal information in videos.         |  [Data](https://github.com/YunseokJANG/tgif-qa)    |
+|2017| MarioQA | **MarioQA** is a dataset specifically designed for video-based question answering in the context of *Super Mario Bros.* gameplay, containing over **70,000 question-answer pairs** linked to gameplay footage. Each question is associated with specific game scenarios, requiring an understanding of both visual content and game mechanics. The dataset is notable for its temporal grounding, which connects questions to relevant moments in gameplay.         |[Data](https://github.com/JonghwanMun/MarioQA)      |
+|2017|Something-Something v1 & v2| **Something-Something** is a collection of 220,847 labeled video clips of humans performing pre-defined,basic actions with everyday objects  .The dataset comprises **220,847 videos** divided into a training set of **168,913**, a validation set of **24,777**, and a test set of **27,157 (without labels)**, with a total of **174 unique labels**. It includes **318,572 annotations** for **30,408 unique objects**, ensuring high quality by having five crowd actors verify that the actions depicted match their descriptions. With a total download size of **19.4 GB**, the video files are provided in **240px resolution** and use the **VP9 codec**.                                    |[Data](https://www.qualcomm.com/developer/software/something-something-v-2-dataset)                                                  |
+|2018|  TVQA |   **TVQA** is a large-scale video question-answering dataset built from six popular TV shows, including *Friends*, *The Big Bang Theory*, and *How I Met Your Mother*. It contains **152.5K QA** pairs sourced from **21.8K video clips**, covering over **460 hours of content**. The questions are compositional, requiring systems to identify specific moments in a video, interpret dialogue from subtitles, and understand visual elements.    | [Data](https://github.com/jayleicn/TVQA/tree/master?tab=readme-ov-file)     |
+|2018| YouCook2|**YouCook2** is one of the largest instructional video datasets focused on task-oriented cooking, featuring **2,000 untrimmed videos** from **89 recipes**, with an average of **22 videos** per recipe. Each video, averaging **5.26 minutes** and totaling **176 hours**, includes annotated procedure steps with their corresponding temporal boundaries, all captured from a third-person viewpoint in an unconstrained home environment. The dataset showcases diverse recipe types and cooking styles worldwide, with all videos recorded by camera devices rather than slideshows. |[Data](http://youcook2.eecs.umich.edu/)|
+|2018|  TVQA+  | **TVQA+** includes **29.4K multiple-choice questions** grounded in both temporal and spatial domains.  To collect spatial groundings, a set of visual concept words—objects and people correct answers are identified, and corresponding object regions in individual frames are annotated with bounding boxes. The dataset contains **310.8K bounding boxes** across **2.5K categories**, linking the referenced objects and people.       | [Data](https://github.com/jayleicn/TVQAplus)     |
+|2019| Moments in Time Dataset | **The Moments in Time dataset** consists of one million videos each 3 seconds long with 339 different classes.Each video is annotated with a single label identifying the action, facilitating supervised learning for action recognition tasks |[Data](http://moments.csail.mit.edu/#)|
+|2021|  LSMDC-QA | **LSMDC-QA** (Large Scale Movie Description Challenge) contains 118,081 short video clips extracted from 202 movies.Each video has a caption,extracted from the movie script or transcribed from DVS(descriptive video services) for the visually impared.It consists of **7408** clips and evaluation is performed on test of **1000 videos** from movies disjoint.         |[Data (Requires request access)](https://sites.google.com/site/describingmovies/download?authuser=0)      |
+|2021|  NExTQA | The **NExT-QA** dataset comprises **5,440 videos**, split into **3,870** for training, **570** for validation, and **1,000** for testing. It features around **52,044 question-answer** pairs, with approximately **47,692** for multi-choice QA and **52,044** for open-ended QA. The questions are divided into three main types: *causal questions* (48% of the dataset), *temporal questions (29%)*, and *descriptive questions (23%)*. On average, questions have a length of **11.6 words**, with causal and temporal questions being relatively longer compared to descriptive ones. Answers are usually short, averaging **2.6 words**, with causal and temporal answers being slightly longer than descriptive ones.        |[Data](https://github.com/doc-doc/NExT-QA)      |
+|2022|  Ego4D|**Ego4D** is a comprehensive egocentric video dataset comprising **3,670 hours** of daily-life activities recorded by **931 camera wearers** across **74 locations** in **9 countries**, covering various scenarios like household, outdoor, and workplace settings. The dataset adheres to stringent privacy and ethics standards, ensuring participant consent and de-identification, and it provides rich multimodal data, including audio, 3D meshes, and synchronized footage from multiple cameras.         |[Data](https://ego4d-data.org/#intro)      |
+|2023| VideoChat| **VideoChat** is a video-centric multimodal instruction data based on WebVid-10M. The project project features a **100K video-instruction** dataset created through a combination of human-assisted and semi-automatic annotation techniques, designed for fine-tuning Video-ChatGPT. The dataset includes diverse question-answer pairs related to video summarization, description-based inquiries, and creative questioning, enriching original annotations with detailed human input and leveraging dense vision-language models like BLIP-v2 and GRIT for semi-automatic annotations.                   |[Data](https://github.com/OpenGVLab/InternVideo/tree/main/Data/instruction_data)                                                    |                            |
+|2023|TextVR |  The **TextVR** dataset is a large-scale cross-modal video retrieval dataset designed to incorporate both visual and text semantic representations, containing **42,200 sentence queries** for **10,500 videos** across **8 scenario** domains, including Street View, Game, Sports, Driving, Activity, TV Show, and Cooking.                |[Data](https://github.com/callsys/TextVR)|
+|2024|CinePile|The **CinePile** dataset consists of **9,396 movie clips** sourced from the Movieclips YouTube channel, divided into training and testing splits of **9,248** and **148 videos**, respectively. Through a question-answer generation and filtering pipeline, the dataset produced **298,888 training points** and **4,940 test-set points**, averaging approximately **32 questions per video scene**. This structure enhances the dataset's utility for evaluating question-answering models in cinematic contexts. |[Data](https://ruchitrawal.github.io/cinepile/)|
 ---
 ## Models
 ## Open Source Models
