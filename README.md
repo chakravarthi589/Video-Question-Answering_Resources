@@ -54,6 +54,7 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 - Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports <a href="https://arxiv.org/abs/2401.01505" target="_blank">[Paper]
 - Videoagent: Long-form Video Understanding with Large Language Model as Agent <a href="https://arxiv.org/abs/2403.10517" target="_blank">[Paper]
 - AMEGO: Active Memory from Long EGOcentric Videos <a href="https://arxiv.org/pdf/2409.10917" target="_blank">[Paper]
+- Video Instruction Tuning With Synthetic Data <a href="https://arxiv.org/abs/2410.02713" target="_blank">[Paper]
 
 #### 2023
 - Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models (CVPR) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf" target="_blank">[Paper]
