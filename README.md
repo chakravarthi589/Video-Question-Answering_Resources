@@ -40,7 +40,7 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 ### Conference/Journal Papers
 #### 2024
 - Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
-- MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (CVPR)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
+- MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (**CVPR**)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
 - Can I Trust Your Answer? Visually Grounded Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Can_I_Trust_Your_Answer_Visually_Grounded_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - Event Graph Guided Compositional Spatial-Temporal Reasoning for Video Question Answering <a href="https://doi.org/10.1109/TIP.2024.3358726"  target="_blank">[Paper]
 - LVBench: An Extreme Long Video Understanding Benchmark <a href="https://ui.adsabs.harvard.edu/link_gateway/2024arXiv240608035W/doi:10.48550/arXiv.2406.08035" target="_blank">[Paper]
