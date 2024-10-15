@@ -16,7 +16,7 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 - [**Publications**](#Publications) <br/>
   - Survey/Review Papers
   - Conference/Journal Papers 
-- [**Benchmark Datasets**](#Benchmark-Datasets) <br>
+- [**Datasets**](#Datasets) <br>
 - [**Current Models on Hugging Face**](#Current-Models-on-Hugging-Face) <br>
 - [**Additional Resources**](#Additional-Resourcese) <br>
 
@@ -64,6 +64,7 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 - Visual Instruction Tuning (NeurIPS) <a href="https://arxiv.org/abs/2304.08485" target="_blank">[Paper]
 - A Simple LLM Framework for Long-Range Video Question-Answering (Preprint) <a href="https://arxiv.org/abs/2312.17235" target="_blank">[Paper]
 - A Large Cross-Modal Video Retrieval Dataset with Reading Comprehension <a href="https://arxiv.org/abs/2305.03347">[Paper]
+- InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning <a href="https://arxiv.org/abs/2305.06500" target="_blank">[Paper]
 
 #### 2022
 - Measuring Compositional Consistency for Video Question Answering (CVPR) <a href="https://arxiv.org/abs/2204.07190" target="_blank">[Paper]
@@ -80,6 +81,7 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 - Self-Supervised Pre-training and Contrastive Representation Learning for Multiple-choice Video QA (AAAI) <a href="https://doi.org/10.1609/aaai.v35i14.17556" target="_blank">[Paper]
 - Hierarchical Conditional Relation Networks for Multimodal Video Question Answering  <a href="https://link.springer.com/article/10.1007/s11263-021-01514-3" target="_blank">[Paper]
 - TruMan: Trope Understanding in Movies and Animations <a href="https://doi.org/10.1145/3459637.3482018" target="_blank">[Paper]
+- Perceiver IO: A General Architecture for Structured Inputs & Outputs<a href="https://arxiv.org/abs/2107.14795" target="_blank">[Paper]
 
 #### 2020
 - BERT Representations for Video Question Answering (WACV) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
@@ -155,6 +157,9 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 | LITA | [GitHub](https://github.com/NVlabs/LITA)|
 | End2End ChatBot |[Hugging Face](https://huggingface.co/spaces/OpenGVLab/InternVideo2-Chat-8B-HD) , [GitHub](https://github.com/OpenGVLab/Ask-Anything)|
 | VideoLLAMA2 | [Hugging Face](https://github.com/DAMO-NLP-SG/VideoLLaMA2) , [GitHub](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)|
+|FrozenBiLM | [GitHub](https://github.com/antoyang/FrozenBiLM) |
+|PercieverIO | [GitHUb](https://huggingface.co/docs/transformers/model_doc/perceiver),[GitHub](https://github.com/google-deepmind/deepmind-research/tree/master/perceiver)|
+|InstructBlipVideo |[Hugging Face](https://huggingface.co/docs/transformers/model_doc/instructblipvideo#instructblipvideo) , [GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |
 
 ---
 
