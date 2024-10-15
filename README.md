@@ -158,7 +158,7 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 | End2End ChatBot |[Hugging Face](https://huggingface.co/spaces/OpenGVLab/InternVideo2-Chat-8B-HD) , [GitHub](https://github.com/OpenGVLab/Ask-Anything)|
 | VideoLLAMA2 | [Hugging Face](https://github.com/DAMO-NLP-SG/VideoLLaMA2) , [GitHub](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)|
 |FrozenBiLM | [GitHub](https://github.com/antoyang/FrozenBiLM) |
-|PercieverIO | [GitHUb](https://huggingface.co/docs/transformers/model_doc/perceiver),[GitHub](https://github.com/google-deepmind/deepmind-research/tree/master/perceiver)|
+|PercieverIO | [Hugging Face](https://huggingface.co/docs/transformers/model_doc/perceiver),[GitHub](https://github.com/google-deepmind/deepmind-research/tree/master/perceiver)|
 |InstructBlipVideo |[Hugging Face](https://huggingface.co/docs/transformers/model_doc/instructblipvideo#instructblipvideo) , [GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |
 
 ---
