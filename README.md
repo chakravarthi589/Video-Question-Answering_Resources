@@ -17,8 +17,8 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
   - Survey/Review Papers
   - Conference/Journal Papers 
 - [**Datasets**](#Datasets) <br>
-- [**Current Models on Hugging Face**](#Current-Models-on-Hugging-Face) <br>
-- [**Additional Resources**](#Additional-Resourcese) <br>
+- [**Models**](#Models) <br>
+- [**Additional Resources**](#Additional-Resources) <br>
 
   
 ---
@@ -173,7 +173,7 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 
 ---
 
-## Additional Resources
+## Additional-Resources
 
 1. **[OpenAI Docs](https://platform.openai.com/docs/api-reference/introduction)**
 2. **[Gemini Docs](https://ai.google.dev/gemini-api/docs)**
