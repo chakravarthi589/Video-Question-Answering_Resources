@@ -39,9 +39,9 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 
 ### Conference/Journal Papers
 #### 2024
-- Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
+- Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (**CVPR**)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
-- Can I Trust Your Answer? Visually Grounded Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Can_I_Trust_Your_Answer_Visually_Grounded_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
+- Can I Trust Your Answer? Visually Grounded Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Can_I_Trust_Your_Answer_Visually_Grounded_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - Event Graph Guided Compositional Spatial-Temporal Reasoning for Video Question Answering <a href="https://doi.org/10.1109/TIP.2024.3358726"  target="_blank">[Paper]
 - LVBench: An Extreme Long Video Understanding Benchmark <a href="https://ui.adsabs.harvard.edu/link_gateway/2024arXiv240608035W/doi:10.48550/arXiv.2406.08035" target="_blank">[Paper]
 - Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding <a href="https://arxiv.org/abs/2406.10221"  target="_blank">[Paper]
@@ -57,36 +57,36 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 - Video Instruction Tuning With Synthetic Data <a href="https://arxiv.org/abs/2410.02713" target="_blank">[Paper]
 
 #### 2023
-- Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models (CVPR) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf" target="_blank">[Paper]
-- ANetQA: A Large-Scale Benchmark for Fine-Grained Compositional Reasoning Over Untrimmed Videos (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_ANetQA_A_Large-Scale_Benchmark_for_Fine-Grained_Compositional_Reasoning_Over_Untrimmed_CVPR_2023_paper.pdf" target="_blank">[Paper]
-- Discovering Spatio-Temporal Rationales for Video Question Answering (ICCV) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Discovering_Spatio-Temporal_Rationales_for_Video_Question_Answering_ICCV_2023_paper.html" target="_blank">[Paper]
-- Egoschema: A Diagnostic Benchmark for Very Long-Form Video Language Understanding (NeurIPS) <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf" target="_blank">[Paper]
-- Visual Instruction Tuning (NeurIPS) <a href="https://arxiv.org/abs/2304.08485" target="_blank">[Paper]
+- Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models (**CVPR**) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf" target="_blank">[Paper]
+- ANetQA: A Large-Scale Benchmark for Fine-Grained Compositional Reasoning Over Untrimmed Videos (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_ANetQA_A_Large-Scale_Benchmark_for_Fine-Grained_Compositional_Reasoning_Over_Untrimmed_CVPR_2023_paper.pdf" target="_blank">[Paper]
+- Discovering Spatio-Temporal Rationales for Video Question Answering (**ICCV**) <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Discovering_Spatio-Temporal_Rationales_for_Video_Question_Answering_ICCV_2023_paper.html" target="_blank">[Paper]
+- Egoschema: A Diagnostic Benchmark for Very Long-Form Video Language Understanding (**NeurIPS**) <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf" target="_blank">[Paper]
+- Visual Instruction Tuning (**NeurIPS**) <a href="https://arxiv.org/abs/2304.08485" target="_blank">[Paper]
 - A Simple LLM Framework for Long-Range Video Question-Answering (Preprint) <a href="https://arxiv.org/abs/2312.17235" target="_blank">[Paper]
 - A Large Cross-Modal Video Retrieval Dataset with Reading Comprehension <a href="https://arxiv.org/abs/2305.03347">[Paper]
 - InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning <a href="https://arxiv.org/abs/2305.06500" target="_blank">[Paper]
 
 #### 2022
-- Measuring Compositional Consistency for Video Question Answering (CVPR) <a href="https://arxiv.org/abs/2204.07190" target="_blank">[Paper]
-- From Representation to Reasoning: Towards Both Evidence and Commonsense Reasoning for Video Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_From_Representation_to_Reasoning_Towards_Both_Evidence_and_Commonsense_Reasoning_CVPR_2022_paper.pdf" target="_blank">[Paper]
-- Zero-Shot Video Question Answering via Frozen Bidirectional Language Models (NeurIPS) <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/00d1f03b87a401b1c7957e0cc785d0bc-Paper-Conference.pdf" target="_blank">[Paper]
+- Measuring Compositional Consistency for Video Question Answering (**CVPR**) <a href="https://arxiv.org/abs/2204.07190" target="_blank">[Paper]
+- From Representation to Reasoning: Towards Both Evidence and Commonsense Reasoning for Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_From_Representation_to_Reasoning_Towards_Both_Evidence_and_Commonsense_Reasoning_CVPR_2022_paper.pdf" target="_blank">[Paper]
+- Zero-Shot Video Question Answering via Frozen Bidirectional Language Models (**NeurIPS**) <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/00d1f03b87a401b1c7957e0cc785d0bc-Paper-Conference.pdf" target="_blank">[Paper]
 - Dynamic Spatio-Temporal Modular Network for Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3503161.3548061" target="_blank">[Paper]
 - Ego4D:Around the World in 3000 Hours of EgoCentric Video<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf" target="_blank">[Paper]
 
 #### 2021
-- NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf" target="_blank">[Paper]
-- Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling (CVPR) <a href="https://doi.ieeecomputersociety.org/10.1109/CVPR46437.2021.00725" target="_blank">[Paper]
-- AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning (CVPR) <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Grunde-McLaughlin_AGQA_A_Benchmark_for_Compositional_Spatio-Temporal_Reasoning_CVPR_2021_paper.html" target="_blank">[Paper]
-- On the Hidden Treasure of Dialog in Video Question Answering (ICCV) <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Engin_On_the_Hidden_Treasure_of_Dialog_in_Video_Question_Answering_ICCV_2021_paper.pdf" target="_blank">[Paper]
-- Self-Supervised Pre-training and Contrastive Representation Learning for Multiple-choice Video QA (AAAI) <a href="https://doi.org/10.1609/aaai.v35i14.17556" target="_blank">[Paper]
+- NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf" target="_blank">[Paper]
+- Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling (**CVPR**) <a href="https://doi.ieeecomputersociety.org/10.1109/CVPR46437.2021.00725" target="_blank">[Paper]
+- AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Grunde-McLaughlin_AGQA_A_Benchmark_for_Compositional_Spatio-Temporal_Reasoning_CVPR_2021_paper.html" target="_blank">[Paper]
+- On the Hidden Treasure of Dialog in Video Question Answering (**ICCV**) <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Engin_On_the_Hidden_Treasure_of_Dialog_in_Video_Question_Answering_ICCV_2021_paper.pdf" target="_blank">[Paper]
+- Self-Supervised Pre-training and Contrastive Representation Learning for Multiple-choice Video QA (**AAAI**) <a href="https://doi.org/10.1609/aaai.v35i14.17556" target="_blank">[Paper]
 - Hierarchical Conditional Relation Networks for Multimodal Video Question Answering  <a href="https://link.springer.com/article/10.1007/s11263-021-01514-3" target="_blank">[Paper]
 - TruMan: Trope Understanding in Movies and Animations <a href="https://doi.org/10.1145/3459637.3482018" target="_blank">[Paper]
 - Perceiver IO: A General Architecture for Structured Inputs & Outputs<a href="https://arxiv.org/abs/2107.14795" target="_blank">[Paper]
 
 #### 2020
-- BERT Representations for Video Question Answering (WACV) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
-- KnowIT VQA: Answering Knowledge-Based Questions about Videos (AAAI) <a href="https://doi.org/10.1609/aaai.v34i07.6713" target="_blank">[Paper]
-- Divide and Conquer: Question-Guided Spatio-Temporal Contextual Attention for Video Question Answering (AAAI) <a href="https://doi.org/10.1609/aaai.v34i07.6766" target="_blank">[Paper]
+- BERT Representations for Video Question Answering (**WACV**) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
+- KnowIT VQA: Answering Knowledge-Based Questions about Videos (**AAAI**) <a href="https://doi.org/10.1609/aaai.v34i07.6713" target="_blank">[Paper]
+- Divide and Conquer: Question-Guided Spatio-Temporal Contextual Attention for Video Question Answering (**AAAI**) <a href="https://doi.org/10.1609/aaai.v34i07.6766" target="_blank">[Paper]
 - TVQA+: Spatio-Temporal Grounding for Video Question Answering <a href="https://aclanthology.org/2020.acl-main.730/" target="_blank">[Paper]
 - Video Question Answering for Surveillance (TechRxiv - Not Peer Reviewed) <a href="https://www.techrxiv.org/users/663145/articles/675946-video-question-answering-for-surveillance" target="_blank">[Paper]
 - The MSR-Video to Text Dataset with Clean Annotations <a href="https://doi.org/10.1016/j.cviu.2022.103581" target="_blank">[Paper]
@@ -94,8 +94,8 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 
 
 #### 2019
-- EgoVQA: An Egocentric Video Question Answering Benchmark Dataset (CVPR) <a href="https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf" target="_blank">[Paper]
-- Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering (AAAI) <a href="https://doi.org/10.1609/aaai.v33i01.33018658" target="_blank">[Paper]
+- EgoVQA: An Egocentric Video Question Answering Benchmark Dataset (**CVPR**) <a href="https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf" target="_blank">[Paper]
+- Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering (**AAAI**) <a href="https://doi.org/10.1609/aaai.v33i01.33018658" target="_blank">[Paper]
 - Compositional Attention Networks with Two-Stream Fusion for Video Question Answering <a href="https://doi.org/10.1109/TIP.2019.2940677" target="_blank">[Paper]
 - Learning to Reason with Relational Video Representation for Question Answering <a href="https://www.researchgate.net/profile/Truyen-Tran-2/publication/334388370_Neural_Reasoning_Fast_and_Slow_for_Video_Question_Answering/links/5d2c386b92851cf44085055d/Neural-Reasoning-Fast-and-Slow-for-Video-Question-Answering.pdf" target="_blank">[Paper]
 - Video Question Answering with Spatio-Temporal Reasoning <a href="https://link.springer.com/article/10.1007/s11263-019-01189-x" target="_blank">[Paper]
@@ -103,7 +103,7 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 - Moments in Time Dataset: one million videos for event understanding <a href="http://moments.csail.mit.edu/TPAMI.2019.2901464.pdf">[Paper]
   
 #### 2018
-- Multimodal Dual Attention Memory for Video Story Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf" target="_blank">[Paper]
+- Multimodal Dual Attention Memory for Video Story Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf" target="_blank">[Paper]
 - TVQA: Localized, Compositional Video Question Answering <a href="https://aclanthology.org/D18-1167/"  target="_blank">[Paper]
 - Explore Multi-Step Reasoning in Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3240508.3240563"  target="_blank">[Paper]
 - Towards Automatic Learning of Procedures From Web Instructional Videos <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17344">[Paper]
@@ -111,18 +111,18 @@ Video question answering(VideoQA),Temporal Reasoning,LLMs,Long video understandi
 - On the effectiveness of task granularity for transfer learning <a href="https://arxiv.org/abs/1804.09235">[Paper]
 
 #### 2017
-- A Dataset and Exploration of Models for Understanding Video Data through Fill-in-the-Blank Question Answering (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Maharaj_A_Dataset_and_CVPR_2017_paper.pdf" target="_blank">[Paper]
-- MarioQA: Answering Questions by Watching Gameplay (CVPR) <a href="https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf" target="_blank">[Paper]
-- Leveraging Video Description to Learn Video Question Answering (AAAI) <a href="https://doi.org/10.1609/aaai.v31i1.11238" target="_blank">[Paper]
+- A Dataset and Exploration of Models for Understanding Video Data through Fill-in-the-Blank Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Maharaj_A_Dataset_and_CVPR_2017_paper.pdf" target="_blank">[Paper]
+- MarioQA: Answering Questions by Watching Gameplay (**CVPR**) <a href="https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf" target="_blank">[Paper]
+- Leveraging Video Description to Learn Video Question Answering (**AAAI**) <a href="https://doi.org/10.1609/aaai.v31i1.11238" target="_blank">[Paper]
 - Video Question Answering via Gradually Refined Attention over Appearance and Motion <a href="https://dl.acm.org/doi/abs/10.1145/3123266.3123427?casa_token=TPImYXpw2zYAAAAA:-yPqs_YzwkfIBEcYHzs0EAWQcprtt0HYrEugKwiYEFfNZMvZ8WqjtjJKFOX3hVwhmIvck-QCUQbHQw" target="_blank">[Paper]
 - DeepStory: Video Story QA by Deep Embedded Memory Networks <a href="https://dl.acm.org/doi/10.5555/3172077.3172168" target="_blank">[Paper]
 - Video Question Answering via Hierarchical Spatio-Temporal Attention Networks <a href="https://www.ijcai.org/proceedings/2017/0492.pdf" target="_blank">[Paper]
 - The "something something" video database for learning and evaluating visual common sense <a href="https://arxiv.org/abs/1706.04261">[Paper]
 
 #### 2016
-- MovieQA: Understanding Stories in Movies through Question-Answering (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2016/html/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.html" target="_blank">[Paper]
-- MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR) <a href="https://doi.org/10.1109/CVPR.2016.571" target="_blank">[Paper]
-- TGIF: A New Dataset and Benchmark on Animated GIF Description (CVPR) <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf" target="_blank">[Paper]
+- MovieQA: Understanding Stories in Movies through Question-Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content_cvpr_2016/html/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.html" target="_blank">[Paper]
+- MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (**CVPR**) <a href="https://doi.org/10.1109/CVPR.2016.571" target="_blank">[Paper]
+- TGIF: A New Dataset and Benchmark on Animated GIF Description (**CVPR**) <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf" target="_blank">[Paper]
 
 ---
 ## Datasets
