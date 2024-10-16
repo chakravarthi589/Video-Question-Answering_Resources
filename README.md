@@ -56,6 +56,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - AMEGO: Active Memory from Long EGOcentric Videos <a href="https://arxiv.org/pdf/2409.10917" target="_blank">[Paper]
 - Video Instruction Tuning With Synthetic Data <a href="https://arxiv.org/abs/2410.02713" target="_blank">[Paper]
 - Video-MME:The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis <a href="https://arxiv.org/pdf/2405.21075" target="_blank">[Paper]
+- How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites.<a href="https://arxiv.org/pdf/2404.16821" target="_blank">[Paper]
 
 #### 2023
 - Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models (**CVPR**) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf" target="_blank">[Paper]
@@ -165,7 +166,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ---
 
-## Closed source Models
+## Closed Source Models
 | Model Name | API Link |
 |------------|----------|
 | ChatGPT    | [Here](https://platform.openai.com/api-keys) |
