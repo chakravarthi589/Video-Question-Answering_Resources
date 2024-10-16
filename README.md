@@ -163,6 +163,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 |FrozenBiLM | [GitHub](https://github.com/antoyang/FrozenBiLM) |
 |PercieverIO | [Hugging Face](https://huggingface.co/docs/transformers/model_doc/perceiver),[GitHub](https://github.com/google-deepmind/deepmind-research/tree/master/perceiver)|
 |InstructBlipVideo |[Hugging Face](https://huggingface.co/docs/transformers/model_doc/instructblipvideo#instructblipvideo) , [GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |
+|VideoGPT|[Hugging Face](https://huggingface.co/notbdq/videogpt),[GitHub](https://github.com/wilson1yan/VideoGPT?tab=readme-ov-file)|
 
 ---
 
