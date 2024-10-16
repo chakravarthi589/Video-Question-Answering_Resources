@@ -165,7 +165,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ---
 
-## Models that Require APIs
+## Closed source Models
 | Model Name | API Link |
 |------------|----------|
 | ChatGPT    | [Here](https://platform.openai.com/api-keys) |
