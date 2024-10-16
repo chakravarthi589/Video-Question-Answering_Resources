@@ -57,7 +57,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Video Instruction Tuning With Synthetic Data <a href="https://arxiv.org/abs/2410.02713" target="_blank">[Paper]
 - Video-MME:The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis <a href="https://arxiv.org/pdf/2405.21075" target="_blank">[Paper]
 - How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites.<a href="https://arxiv.org/pdf/2404.16821" target="_blank">[Paper]
-- VideoGPT:Video Generation using VQ-VAE and Transformers <a href="https://arxiv.org/pdf/2104.10157" target="_blank">[Paper]
+
 
 #### 2023
 - Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models (**CVPR**) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf" target="_blank">[Paper]
@@ -85,6 +85,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Hierarchical Conditional Relation Networks for Multimodal Video Question Answering  <a href="https://link.springer.com/article/10.1007/s11263-021-01514-3" target="_blank">[Paper]
 - TruMan: Trope Understanding in Movies and Animations <a href="https://doi.org/10.1145/3459637.3482018" target="_blank">[Paper]
 - Perceiver IO: A General Architecture for Structured Inputs & Outputs<a href="https://arxiv.org/abs/2107.14795" target="_blank">[Paper]
+- VideoGPT:Video Generation using VQ-VAE and Transformers <a href="https://arxiv.org/pdf/2104.10157" target="_blank">[Paper]
 
 #### 2020
 - BERT Representations for Video Question Answering (**WACV**) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
