@@ -55,6 +55,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Videoagent: Long-form Video Understanding with Large Language Model as Agent <a href="https://arxiv.org/abs/2403.10517" target="_blank">[Paper]
 - AMEGO: Active Memory from Long EGOcentric Videos <a href="https://arxiv.org/pdf/2409.10917" target="_blank">[Paper]
 - Video Instruction Tuning With Synthetic Data <a href="https://arxiv.org/abs/2410.02713" target="_blank">[Paper]
+- Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving <a href="https://arxiv.org/pdf/2403.19838" target="_blank">[Paper]
 - Video-MME:The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis <a href="https://arxiv.org/pdf/2405.21075" target="_blank">[Paper]
 - How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites.<a href="https://arxiv.org/pdf/2404.16821" target="_blank">[Paper]
 
