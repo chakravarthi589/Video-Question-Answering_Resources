@@ -59,6 +59,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving <a href="https://arxiv.org/pdf/2403.19838" target="_blank">[Paper]
 - Video-MME:The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis <a href="https://arxiv.org/pdf/2405.21075" target="_blank">[Paper]
 - How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites.<a href="https://arxiv.org/pdf/2404.16821" target="_blank">[Paper]
+- Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution. <a href="https://arxiv.org/pdf/2409.12191" target="_blank">[Paper]
 
 
 #### 2023
@@ -171,6 +172,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 |PercieverIO | [Hugging Face](https://huggingface.co/docs/transformers/model_doc/perceiver),[GitHub](https://github.com/google-deepmind/deepmind-research/tree/master/perceiver)|
 |InstructBlipVideo |[Hugging Face](https://huggingface.co/docs/transformers/model_doc/instructblipvideo#instructblipvideo) , [GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |
 |VideoGPT|[Hugging Face](https://huggingface.co/notbdq/videogpt),[GitHub](https://github.com/wilson1yan/VideoGPT?tab=readme-ov-file)|
+|Qwen2-VL|[Hugging Face](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d),[GitHub](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file)|
 
 ---
 
