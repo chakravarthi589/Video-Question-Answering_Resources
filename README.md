@@ -1,11 +1,11 @@
-<h1 align="center"> Video-Question-Answering (VideoQA) Resources </h1>
+<h1 align="center"> 📹 Video-Question-Answering (VideoQA) Resources </h1>
 
 The Video-Question-Answering-Resources repository is a curated guide for beginners and researchers interested in the Video Question Answering (VQA) field. It provides an organized collection of the most relevant papers, models, datasets, and additional resources to help users understand and contribute to this evolving area. The repository focuses on the intersection of computer vision and natural language processing, particularly how video data can be used to answer complex questions, offering a range of materials from introductory guides to advanced research. (Last Update on 10/17/2024)
 
-## Keywords: 
+## 💡 Keywords: 
 Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reasoning, Temporal Reasoning, Multi-Choice QA, Open-Ended QA;
 
-## Curators:
+## ⭐ Curators:
 [ Bharatesh Chakravarthi, Ph.D](https://chakravarthi589.github.io/)
 </br>
 [Joseph Raj Vishal](https://github.com/joe-rabbit)
@@ -22,7 +22,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
   
 ---
-## Beginners Guide to Video Question Answering
+## 🚀 Beginners Guide to Video Question Answering
 
 1. **[Answering Questions from YouTube Videos with OpenAI Whisper and GPT-4 (Medium article)](https://medium.com/@mksupriya2/answering-questions-from-youtube-videos-with-openai-whisper-and-gpt-4-9a0ae11389ba)**
 
@@ -30,7 +30,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 3.  **[Community  Computer Vision Course (Unit 4) MultiModal Models](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/vlm-intro)**
 
 ---
-## Publications 
+## 📖 Publications 
 ### Survey/Review Papers
 
 - A Survey on Generative AI and LLM for Video Generative Understanding, and Streaming (2024) <a href="https://arxiv.org/abs/2404.16038" target="_blank">[Paper]
@@ -134,7 +134,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - TGIF: A New Dataset and Benchmark on Animated GIF Description (**CVPR**) <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf" target="_blank">[Paper]
 
 ---
-## Datasets
+## 📁 Datasets
 | Year | Name | Key Features |
 |------|------|----------|
 | 2024 | [MVBench](https://github.com/OpenGVLab/Ask-Anything/blob/main/video_chat2/MVBENCH.md)| The **MVBench**  dataset focuses on evaluating multi-modal video understanding by covering 20 complex video tasks that emphasize temporal reasoning, from perception to cognition.The MVBench dataset includes over **566,747** video clips from diverse sources, such as COCO, WebVid, YouCook2, and more. The dataset also covers a wide variety of task types, such as question-answering, captioning, and conversation tasks, with more than **200** multiple-choice questions generated for each temporal understanding task |
@@ -159,7 +159,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 | 2014 | [Activity Net](http://activity-net.org/download.html) | **ActivityNet** is a large-scale video benchmark for human activity understanding. ActivityNet aims to cover a wide range of complex human activities. ActivityNet provides samples from **203 activity classes** with an average of **137 untrimmed videos** per class and **1.41 activity instances** per video, for a total of **849 video hours**. |
 
 ---
-## Models
+## 🤖 Models
 ## Open Source Models
 | Model Name  | Links |
 |-------------|-------------------------------|
@@ -186,7 +186,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ---
 
-## Additional-Resources
+## 🔭 Additional-Resources
 
 1. **[OpenAI Docs](https://platform.openai.com/docs/api-reference/introduction)**
 2. **[Gemini Docs](https://ai.google.dev/gemini-api/docs)**
