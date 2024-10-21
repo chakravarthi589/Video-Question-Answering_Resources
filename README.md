@@ -27,7 +27,8 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 1. **[Answering Questions from YouTube Videos with OpenAI Whisper and GPT-4 (Medium article)](https://medium.com/@mksupriya2/answering-questions-from-youtube-videos-with-openai-whisper-and-gpt-4-9a0ae11389ba)**
 
 2. **[Try a quick example on how to use LLMs for Video Question Answering here](https://colab.research.google.com/drive/1qTUr1rYB3L3ZlFyLocWbRKg_HVfLvyvT?usp=sharing)** (Check Additional Resources for API key)
-3.  **[Community  Computer Vision Course (Unit 4) MultiModal Models](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/vlm-intro)**
+3. **[Azure AI Video Indexer with LLM prompts](https://learn.microsoft.com/en-us/azure/azure-video-indexer/prompt-overview)**
+4.  **[Community  Computer Vision Course (Unit 4) MultiModal Models](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/vlm-intro)**
 
 ---
 ##  Publications 
