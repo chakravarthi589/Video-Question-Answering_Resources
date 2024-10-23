@@ -194,6 +194,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 1. **[OpenAI Docs](https://platform.openai.com/docs/api-reference/introduction)**
 2. **[Gemini Docs](https://ai.google.dev/gemini-api/docs)**
 3. **[LLAMA Docs](https://docs.llama-api.com/quickstart)**
+4. **[Azure Samples](https://github.com/Azure-Samples/azure-video-indexer-samples/tree/master/VideoQnA-Demo)**
 ---
 
 ### :arrow_heading_up: [Back to Top](#video-qa)
