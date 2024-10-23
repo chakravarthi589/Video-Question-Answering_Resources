@@ -60,8 +60,9 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Video-MME:The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis <a href="https://arxiv.org/pdf/2405.21075" target="_blank">[Paper]
 - How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites.<a href="https://arxiv.org/pdf/2404.16821" target="_blank">[Paper]
 - Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution. <a href="https://arxiv.org/pdf/2409.12191" target="_blank">[Paper]
-- VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs <a href="https://arxiv.org/abs/2409.20365">[Paper]
-- TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations <a href="https://arxiv.org/abs/2409.03206">[Paper]
+- VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs <a href="https://arxiv.org/abs/2409.20365" target="_blank">[Paper]
+- TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations <a href="https://arxiv.org/abs/2409.03206" target="_blank">[Paper]
+- Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context <a href="https://arxiv.org/abs/2403.05530" target="_blank">[Paper]
 
 
 #### 2023
