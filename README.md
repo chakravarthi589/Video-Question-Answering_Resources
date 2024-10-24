@@ -178,6 +178,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 |InstructBlipVideo |[Hugging Face](https://huggingface.co/docs/transformers/model_doc/instructblipvideo#instructblipvideo) , [GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |
 |VideoGPT|[Hugging Face](https://huggingface.co/notbdq/videogpt),[GitHub](https://github.com/wilson1yan/VideoGPT?tab=readme-ov-file)|
 |Qwen2-VL|[Hugging Face](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d),[GitHub](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file)|
+|ViLA|[GitHub](https://www.amazon.science/publications/vila-efficient-video-language-alignment-for-video-question-answering)|
 
 ---
 
