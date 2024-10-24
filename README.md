@@ -83,6 +83,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Zero-Shot Video Question Answering via Frozen Bidirectional Language Models (**NeurIPS**) <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/00d1f03b87a401b1c7957e0cc785d0bc-Paper-Conference.pdf" target="_blank">[Paper]
 - Dynamic Spatio-Temporal Modular Network for Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3503161.3548061" target="_blank">[Paper]
 - Ego4D:Around the World in 3000 Hours of EgoCentric Video<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf" target="_blank">[Paper]
+- Flamingo: A Visual Language Model for Few-Shot Learning <a href="https://arxiv.org/pdf/2204.14198v2" target="_blank">[Paper]
 
 #### 2021
 - NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf" target="_blank">[Paper]
