@@ -66,6 +66,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - ViLA: Efficient video-language alignment for video question answering(ECCV24) <a href="https://www.amazon.science/publications/vila-efficient-video-language-alignment-for-video-question-answering" target="_blank">[Paper]
 
 
+
 #### 2023
 - Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models (**CVPR**) <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Open-vocabulary_Video_Question_Answering_A_New_Benchmark_for_Evaluating_the_ICCV_2023_paper.pdf" target="_blank">[Paper]
 - ANetQA: A Large-Scale Benchmark for Fine-Grained Compositional Reasoning Over Untrimmed Videos (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_ANetQA_A_Large-Scale_Benchmark_for_Fine-Grained_Compositional_Reasoning_Over_Untrimmed_CVPR_2023_paper.pdf" target="_blank">[Paper]
@@ -96,6 +97,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - TruMan: Trope Understanding in Movies and Animations <a href="https://doi.org/10.1145/3459637.3482018" target="_blank">[Paper]
 - Perceiver IO: A General Architecture for Structured Inputs & Outputs<a href="https://arxiv.org/abs/2107.14795" target="_blank">[Paper]
 - VideoGPT:Video Generation using VQ-VAE and Transformers <a href="https://arxiv.org/pdf/2104.10157" target="_blank">[Paper]
+- Clip4clip: An empirical study of clip for end-to-end video clip retrieval and captioning.(ACM) <a href="" target="_blank">[Paper]
 
 #### 2020
 - BERT Representations for Video Question Answering (**WACV**) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
