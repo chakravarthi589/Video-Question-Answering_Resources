@@ -63,6 +63,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs <a href="https://arxiv.org/abs/2409.20365" target="_blank">[Paper]
 - TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations <a href="https://arxiv.org/abs/2409.03206" target="_blank">[Paper]
 - Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context <a href="https://arxiv.org/abs/2403.05530" target="_blank">[Paper]
+- ViLA: Efficient video-language alignment for video question answering(ECCV24) <a href="https://www.amazon.science/publications/vila-efficient-video-language-alignment-for-video-question-answering" target="_blank">[Paper]
 
 
 #### 2023
