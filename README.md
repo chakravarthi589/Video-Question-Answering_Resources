@@ -77,6 +77,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - A Simple LLM Framework for Long-Range Video Question-Answering (Preprint) <a href="https://arxiv.org/abs/2312.17235" target="_blank">[Paper]
 - A Large Cross-Modal Video Retrieval Dataset with Reading Comprehension <a href="https://arxiv.org/abs/2305.03347">[Paper]
 - InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning <a href="https://arxiv.org/abs/2305.06500" target="_blank">[Paper]
+- Video Question Answering Using CLIP-Guided Visual-Text Attention <a href="https://arxiv.org/abs/2303.03131" target="_blank">[Paper]
   
 
 #### 2022
