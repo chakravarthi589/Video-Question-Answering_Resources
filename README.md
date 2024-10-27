@@ -106,6 +106,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - TVQA+: Spatio-Temporal Grounding for Video Question Answering <a href="https://aclanthology.org/2020.acl-main.730/" target="_blank">[Paper]
 - Video Question Answering for Surveillance (TechRxiv - Not Peer Reviewed) <a href="https://www.techrxiv.org/users/663145/articles/675946-video-question-answering-for-surveillance" target="_blank">[Paper]
 - The MSR-Video to Text Dataset with Clean Annotations <a href="https://doi.org/10.1016/j.cviu.2022.103581" target="_blank">[Paper]
+- HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training (ACL) <a href="https://arxiv.org/abs/2005.00200" target="_blank">[Paper]
 -TVQA: Localized,Compositional Video Question Answering <a href="https://arxiv.org/abs/1809.01696">[Paper]
 
 
