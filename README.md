@@ -40,6 +40,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 ### Conference/Journal Papers
 #### 2024
 - Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
+- VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models<a href="https://arxiv.org/abs/2410.00741" target="_blank">[Paper]
 - MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (**CVPR**)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
 - Can I Trust Your Answer? Visually Grounded Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Can_I_Trust_Your_Answer_Visually_Grounded_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - MVBench: A Comprehensive Multi-modal Video Understanding Benchmark <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf" target="_blank">[Paper]
@@ -63,6 +64,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs <a href="https://arxiv.org/abs/2409.20365" target="_blank">[Paper]
 - TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations <a href="https://arxiv.org/abs/2409.03206" target="_blank">[Paper]
 - Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context <a href="https://arxiv.org/abs/2403.05530" target="_blank">[Paper]
+- VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models <a href="https://arxiv.org/abs/2410.00741" target="_blank">[Paper]
 - ViLA: Efficient video-language alignment for video question answering(ECCV24) <a href="https://www.amazon.science/publications/vila-efficient-video-language-alignment-for-video-question-answering" target="_blank">[Paper]
 
 
@@ -78,6 +80,8 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - A Large Cross-Modal Video Retrieval Dataset with Reading Comprehension <a href="https://arxiv.org/abs/2305.03347">[Paper]
 - InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning <a href="https://arxiv.org/abs/2305.06500" target="_blank">[Paper]
 - Video Question Answering Using CLIP-Guided Visual-Text Attention <a href="https://arxiv.org/abs/2303.03131" target="_blank">[Paper]
+- Building an Open-Vocabulary Video CLIP Model with Better Architectures, Optimization and Data <a href="https://arxiv.org/abs/2310.05010" target="_blank">[Paper]
+- Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization <a href="https://arxiv.org/abs/2302.00624" target="_blank">[Paper]
   
 
 #### 2022
@@ -98,7 +102,8 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - TruMan: Trope Understanding in Movies and Animations <a href="https://doi.org/10.1145/3459637.3482018" target="_blank">[Paper]
 - Perceiver IO: A General Architecture for Structured Inputs & Outputs<a href="https://arxiv.org/abs/2107.14795" target="_blank">[Paper]
 - VideoGPT:Video Generation using VQ-VAE and Transformers <a href="https://arxiv.org/pdf/2104.10157" target="_blank">[Paper]
-- Clip4clip: An empirical study of clip for end-to-end video clip retrieval and captioning.(ACM) <a href="" target="_blank">[Paper]
+- Clip4clip: An empirical study of clip for end-to-end video clip retrieval and captioning.(ACM) <a href="https://arxiv.org/abs/2104.08860" target="_blank">[Paper]
+- VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding <a href="https://arxiv.org/abs/2109.14084" target="_blank">[Paper]
 
 #### 2020
 - BERT Representations for Video Question Answering (**WACV**) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
