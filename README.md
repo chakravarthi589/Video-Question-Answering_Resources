@@ -104,6 +104,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - VideoGPT:Video Generation using VQ-VAE and Transformers <a href="https://arxiv.org/pdf/2104.10157" target="_blank">[Paper]
 - Clip4clip: An empirical study of clip for end-to-end video clip retrieval and captioning.(ACM) <a href="https://arxiv.org/abs/2104.08860" target="_blank">[Paper]
 - VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding <a href="https://arxiv.org/abs/2109.14084" target="_blank">[Paper]
+- AssistSR: Task-oriented Video Segment Retrieval for Personal AI Assistant <a href="https://aclanthology.org/2022.findings-emnlp.24.pdf" target="_blank">[Paper]
 
 #### 2020
 - BERT Representations for Video Question Answering (**WACV**) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
