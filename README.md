@@ -66,6 +66,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context <a href="https://arxiv.org/abs/2403.05530" target="_blank">[Paper]
 - VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models <a href="https://arxiv.org/abs/2410.00741" target="_blank">[Paper]
 - ViLA: Efficient video-language alignment for video question answering(ECCV24) <a href="https://www.amazon.science/publications/vila-efficient-video-language-alignment-for-video-question-answering" target="_blank">[Paper]
+- STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ojs.aaai.org/index.php/AAAI/article/view/29890/31554&ved=2ahUKEwjbrNnn-LKJAxW-LUQIHYMgHKYQFnoECDEQAQ&usg=AOvVaw3fowiKyQ9-8jjR26uiZM37" target="_blank">[Paper]
 
 
 
@@ -105,6 +106,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Clip4clip: An empirical study of clip for end-to-end video clip retrieval and captioning.(ACM) <a href="https://arxiv.org/abs/2104.08860" target="_blank">[Paper]
 - VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding <a href="https://arxiv.org/abs/2109.14084" target="_blank">[Paper]
 - AssistSR: Task-oriented Video Segment Retrieval for Personal AI Assistant <a href="https://aclanthology.org/2022.findings-emnlp.24.pdf" target="_blank">[Paper]
+
 
 #### 2020
 - BERT Representations for Video Question Answering (**WACV**) <a href="https://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html" target="_blank">[Paper]
