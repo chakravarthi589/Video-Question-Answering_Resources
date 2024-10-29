@@ -92,6 +92,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Dynamic Spatio-Temporal Modular Network for Video Question Answering <a href="https://dl.acm.org/doi/10.1145/3503161.3548061" target="_blank">[Paper]
 - Ego4D:Around the World in 3000 Hours of EgoCentric Video<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf" target="_blank">[Paper]
 - Flamingo: A Visual Language Model for Few-Shot Learning <a href="https://arxiv.org/pdf/2204.14198v2" target="_blank">[Paper]
+- Saying the Unseen: Video Descriptions via Dialog Agents <a href="https://ieeexplore.ieee.org/document/9468337" target="_blank">[Paper]
 
 #### 2021
 - NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf" target="_blank">[Paper]
