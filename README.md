@@ -39,6 +39,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ### Conference/Journal Papers
 #### 2024
+- MoReVQA: Exploring Modular Reasoning Models for Video Question Answering (**CVPR**) <a href= "https://openaccess.thecvf.com/content/CVPR2024/papers/Min_MoReVQA_Exploring_Modular_Reasoning_Models_for_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models<a href="https://arxiv.org/abs/2410.00741" target="_blank">[Paper]
 - MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (**CVPR**)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
