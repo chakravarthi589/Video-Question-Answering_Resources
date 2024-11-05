@@ -39,6 +39,8 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ### Conference/Journal Papers
 #### 2024
+- TimeCraft: Navigate Weakly-Supervised Temporal Grounded Video Question Answering via Bi-directional Reasoning <a href= "https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00720.pdf" target="_blank">[Paper]
+- MoReVQA: Exploring Modular Reasoning Models for Video Question Answering (**CVPR**) <a href= "https://openaccess.thecvf.com/content/CVPR2024/papers/Min_MoReVQA_Exploring_Modular_Reasoning_Models_for_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models<a href="https://arxiv.org/abs/2410.00741" target="_blank">[Paper]
 - MVBench: A Comprehensive Multi-modal Video Understanding Benchmark (**CVPR**)  <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html" target="_blank">[Paper]
@@ -181,6 +183,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 ##  Datasets
 | Year | Name | Key Features |
 |------|------|----------|
+|2024| [NExT-GQA](https://github.com/doc-doc/NExT-GQA/tree/main)| The **NExT-GQA** dataset augments the NExT-QA dataset with temporal labels for Causal (“why/how”), Temporal (“before/when/after”) type questions. The annotations are done in a weekly supervised setup by labeling validation and test sets. 8,911 QA pairs from 1,557 videos are annotated with 10,531 valid temporal segments
 | 2024 | [MVBench](https://github.com/OpenGVLab/Ask-Anything/blob/main/video_chat2/MVBENCH.md)| The **MVBench**  dataset focuses on evaluating multi-modal video understanding by covering 20 complex video tasks that emphasize temporal reasoning, from perception to cognition.The MVBench dataset includes over **566,747** video clips from diverse sources, such as COCO, WebVid, YouCook2, and more. The dataset also covers a wide variety of task types, such as question-answering, captioning, and conversation tasks, with more than **200** multiple-choice questions generated for each temporal understanding task |
 |2024|[LVBench](https://github.com/THUDM/LVBench?tab=readme-ov-file)|The **LVBench** dataset consists of **103** videos, each with a minimum duration of **30** minutes. There are a total of **1549** question-answer pairs associated with these videos, with an average of 24 questions per hour of video content|
 |2024|[MedVidQA](https://medvidqa.github.io/)|MedVidQA dataset comprises 3,010 human-annotated instructional questions and visual answers from 900 health-related videos.This dataset forms apart of the challenge of two tasks,medical instructions question generation and Video Corpus Visual Answer Localization (VCVAL).|
