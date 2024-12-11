@@ -39,6 +39,8 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ### Conference/Journal Papers
 #### 2024
+- (Our Paper) Eyes on the Road:State-of-the-art Video Question Answering Models Assessment for Traffic Monitoring Tasks <a href="https://arxiv.org/pdf/2412.01132
+                                                                                                              " target="_blank">[Paper]
 - TimeCraft: Navigate Weakly-Supervised Temporal Grounded Video Question Answering via Bi-directional Reasoning <a href= "https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00720.pdf" target="_blank">[Paper]
 - MoReVQA: Exploring Modular Reasoning Models for Video Question Answering (**CVPR**) <a href= "https://openaccess.thecvf.com/content/CVPR2024/papers/Min_MoReVQA_Exploring_Modular_Reasoning_Models_for_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
