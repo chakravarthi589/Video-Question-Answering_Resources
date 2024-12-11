@@ -70,6 +70,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - ViLA: Efficient video-language alignment for video question answering(ECCV24) <a href="https://www.amazon.science/publications/vila-efficient-video-language-alignment-for-video-question-answering" target="_blank">[Paper]
 - STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ojs.aaai.org/index.php/AAAI/article/view/29890/31554&ved=2ahUKEwjbrNnn-LKJAxW-LUQIHYMgHKYQFnoECDEQAQ&usg=AOvVaw3fowiKyQ9-8jjR26uiZM37" target="_blank">[Paper]
 - STAR: A Benchmark for Situated Reasoning in Real-World Videos <a href="https://arxiv.org/abs/2405.09711" target="_blank">[Paper]
+- LongVLM:Efficient Long Video Understanding via Large Language Models <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05543.pdf" target="_blank">[Paper]
 
 
 
@@ -256,6 +257,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 |VideoGPT|[Hugging Face](https://huggingface.co/notbdq/videogpt),[GitHub](https://github.com/wilson1yan/VideoGPT?tab=readme-ov-file)|
 |Qwen2-VL|[Hugging Face](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d),[GitHub](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file)|
 |ViLA|[GitHub](https://www.amazon.science/publications/vila-efficient-video-language-alignment-for-video-question-answering)|
+|LongVLM|[GitHub](https://github.com/ziplab/LongVLM)|
 
 ---
 
