@@ -38,6 +38,8 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - A survey on VQA: Datasets and approaches (2020, ITCA) <a href="https://doi.org/10.1109/ITCA52113.2020.00069" target="_blank">[Paper]
 
 ### Conference/Journal Papers
+#### 2025 
+- VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and  Video Understanding <a href="https://arxiv.org/pdf/2501.13106" target="blank" />[Paper]
 #### 2024
 - (Our Paper) Eyes on the Road:State-of-the-art Video Question Answering Models Assessment for Traffic Monitoring Tasks <a href="https://arxiv.org/pdf/2412.01132
                                                                                                               " target="_blank">[Paper]
