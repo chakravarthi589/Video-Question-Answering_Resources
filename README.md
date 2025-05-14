@@ -41,7 +41,16 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ### Conference/Journal Papers
 #### 2025 
-- VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and  Video Understanding <a href="https://arxiv.org/pdf/2501.13106" target="blank" />[Paper]
+- HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding <a href="https://arxiv.org/abs/2501.01645" target="_blank"/>[Paper]
+- Empowering llms with pseudo-untrimmed videos for audio-visual temporal understanding <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32784" target="_blank"/>[Paper]
+- Keyframe-oriented vision token pruning: Enchancing efficiency of large vision language models on long-form video processing<a href="https://arxiv.org/abs/2503.10742" target="_blank"/>[Paper]
+- TUMTraffic-Videoqa: A Benchmark for Unified Spatio-Temporal Video Understanding in Traffic Scenes<a href="https://arxiv.org/abs/2502.02449" target="_blank"/>[Paper]
+- EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering <a href="https://arxiv.org/abs/2502.07411" target="_blank"/>[Paper]
+- ReasVQA:Advancing VideoQA with Imperfect Reasoning Process<a href="https://arxiv.org/abs/2501.13536" target="_blank"/>[Paper]
+- Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMS <a href="https://arxiv.org/abs/2501.04336" target="_blank"/>[Paper]
+- Unhackable temporal rewarding for scalable video mllms <a href="https://arxiv.org/abs/2502.12081" target="_blank"/>[Paper]
+- Grounded multi-hop videoqa in long-form egocentric videos<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32214" target="_blank"/>[Paper]
+-  VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and  Video Understanding <a href="https://arxiv.org/pdf/2501.13106" target="blank" />[Paper]
 - Videoqa-SC: Adaptive Semantic Communication for Video Question Answering <a href="https://ieeexplore.ieee.org/abstract/document/10960438?casa_token=fsw9cFFeC90AAAAA:fYx9MTLw7Vm8IWMJpO1k7B9i74-ULwvjtXm93oM0vEUvtiHCEhWYC9TMT04XHI4c5ppjTWc" target="blank"/>[Paper]
 - Granularity-Adaptive Spatial Evidence Tokenization for Video Question Answering <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32416" target="blank" />[Paper]
 - Towards Fine-Grained Video Question Answering <a href="https://arxiv.org/abs/2503.06820" target=""/>[Paper]
