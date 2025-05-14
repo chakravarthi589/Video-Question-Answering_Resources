@@ -33,16 +33,33 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 ##  Publications 
 ### Survey/Review Papers
 
-- A Survey on Generative AI and LLM for Video Generative Understanding, and Streaming (2024) <a href="https://arxiv.org/abs/2404.16038" target="_blank">[Paper]
+- Video Understanding with Large Language Models: A Survey (2025) <a href="https://ieeexplore.ieee.org/abstract/document/10982110?casa_token=6fBIWiRaaB4AAAAA:ccI-pIG5EyznAUCBLxPlyzJRZ58cwKffAlqtVGDexj-JTPIhCTKwv1PI53IQy7C9jrID6pY" target="_blank"/>[Paper]
+- VideoQA in the Era of LLMs:An Empirical Study (2025) <a href="https://link.springer.com/article/10.1007/s11263-025-02385-8" target="_blank">[Paper]
+-  A Survey on Generative AI and LLM for Video Generative Understanding, and Streaming (2024) <a href="https://arxiv.org/abs/2404.16038" target="_blank">[Paper]
 - Video Question Answering: a Survey of Models and Datasets (2021) <a href="https://link.springer.com/article/10.1007/s11036-020-01730-0#ref-CR57" target="_blank">[Paper]
 - A survey on VQA: Datasets and approaches (2020, ITCA) <a href="https://doi.org/10.1109/ITCA52113.2020.00069" target="_blank">[Paper]
 
 ### Conference/Journal Papers
 #### 2025 
 - VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and  Video Understanding <a href="https://arxiv.org/pdf/2501.13106" target="blank" />[Paper]
+- Videoqa-SC: Adaptive Semantic Communication for Video Question Answering <a href="https://ieeexplore.ieee.org/abstract/document/10960438?casa_token=fsw9cFFeC90AAAAA:fYx9MTLw7Vm8IWMJpO1k7B9i74-ULwvjtXm93oM0vEUvtiHCEhWYC9TMT04XHI4c5ppjTWc" target="blank"/>[Paper]
+- Granularity-Adaptive Spatial Evidence Tokenization for Video Question Answering <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32416" target="blank" />[Paper]
+- Towards Fine-Grained Video Question Answering <a href="https://arxiv.org/abs/2503.06820" target=""/>[Paper]
+- Assessing Modality Bias in Video Question Answering Benchmarks with Multimodal Large Language Models <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34183" target=""/>[Paper]
+- REVEAL: Relation-based Video Representation Learning for Video-Question-Answering <a href="https://arxiv.org/abs/2504.05463" target=""/>[Paper]
+- VideoQA-TA: Temporal-Aware Multi-Modal Video Question Answering <a href="https://aclanthology.org/2025.coling-main.483/" target="blank"/>[Paper]
+- VideoMultiAgents: A Multi-Agent Framework for Video Question Answering <a href="https://arxiv.org/abs/2504.20091" target="blank" />[Paper]
+- Open-Ended and Knowledge-Intensive Video Question Answering <a href="https://arxiv.org/abs/2502.11747" target="blank"/>[Paper]
+- A CLIP-based Video Question Answering framework with Explainable AI <a href="https://ieeexplore.ieee.org/abstract/document/10940190?casa_token=Ma_tWxHgKg0AAAAA:SA672Xu7i3aBbEVrd_zluFnxZCus5AFh2ikqA_SPhbGcLZjr1-K06ZDUHktc-pEi8Hyr4a4" target="blank"/>[Paper]
+- Dam: Dynamic Adapter Merging for Continual Video QA Learning <a href="https://ieeexplore.ieee.org/abstract/document/10943374?casa_token=2jrrnvfNlZwAAAAA:2ivaV3kX08N7hh24QU8feXArpKBAUH92yNcAE0Ew5LZR3DOgkmw6_iwuZPsgXt-IMRiQiQw" target="blank"/>[Paper]
+- TimeLogic: A Temporal Logic Benchmark for Video QA <a href="https://arxiv.org/abs/2501.07214" target="blank"/>[Paper]
+- Streaming Video Question-Answering with In-context Video KV-Cache Retrieval <a href="https://arxiv.org/abs/2503.00540" target="blank"/>[Paper]
+- SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding <a href="https://arxiv.org/abs/2502.10810" target="blank"/> [Paper]
+- LongViTU: Instruction Tuning for Long-Form Video Understanding <a href="https://arxiv.org/abs/2501.05037" target="blank"/>[Paper]
+- Cross-modal Causal Relation Alignment for Video Question Grounding <a href="https://arxiv.org/abs/2503.07635" target="blank"/>[Paper]
+
 #### 2024
-- (Our Paper) Eyes on the Road:State-of-the-art Video Question Answering Models Assessment for Traffic Monitoring Tasks <a href="https://arxiv.org/pdf/2412.01132
-                                                                                                              " target="_blank">[Paper]
+- (Our Paper) Eyes on the Road:State-of-the-art Video Question Answering Models Assessment for Traffic Monitoring Tasks <a href="https://arxiv.org/pdf/2412.01132" target="_blank">[Paper]
 - TimeCraft: Navigate Weakly-Supervised Temporal Grounded Video Question Answering via Bi-directional Reasoning <a href= "https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00720.pdf" target="_blank">[Paper]
 - MoReVQA: Exploring Modular Reasoning Models for Video Question Answering (**CVPR**) <a href= "https://openaccess.thecvf.com/content/CVPR2024/papers/Min_MoReVQA_Exploring_Modular_Reasoning_Models_for_Video_Question_Answering_CVPR_2024_paper.pdf" target="_blank">[Paper]
 - Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question Answering (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Align_and_Aggregate_Compositional_Reasoning_with_Video_Alignment_and_Answer_CVPR_2024_paper.pdf" target="_blank">[Paper]
