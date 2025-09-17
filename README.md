@@ -41,6 +41,7 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ### Conference/Journal Papers
 #### 2025 
+- (Our Paper) InterAct Video: Reasoning-Rich Video QA for Urban Traffic <a href="https://arxiv.org/abs/2507.14743" target="_blank"/>[Paper]
 - HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding <a href="https://arxiv.org/abs/2501.01645" target="_blank"/>[Paper]
 - Empowering llms with pseudo-untrimmed videos for audio-visual temporal understanding <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32784" target="_blank"/>[Paper]
 - Keyframe-oriented vision token pruning: Enchancing efficiency of large vision language models on long-form video processing<a href="https://arxiv.org/abs/2503.10742" target="_blank"/>[Paper]
