@@ -1,6 +1,6 @@
 <h1 align="center" id="video-qa"> Video-Question-Answering (VideoQA) Resources </h1>
 
-The Video-Question-Answering-Resources repository is a curated guide for beginners and researchers interested in the Video Question Answering (VQA) field. It provides an organized collection of the most relevant papers, models, datasets, and additional resources to help users understand and contribute to this evolving area. The repository focuses on the intersection of computer vision and natural language processing, particularly how video data can be used to answer complex questions, offering a range of materials from introductory guides to advanced research. (Last Update on 09/18/2025)
+The Video-Question-Answering-Resources repository is a curated guide for beginners and researchers interested in the Video Question Answering (VQA) field. It provides an organized collection of the most relevant papers, models, datasets, and additional resources to help users understand and contribute to this evolving area. The repository focuses on the intersection of computer vision and natural language processing, particularly how video data can be used to answer complex questions, offering a range of materials from introductory guides to advanced research. (Last Update on 09/22/2025)
 
 ## Keywords: 
 Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reasoning, Temporal Reasoning, Multi-Choice QA, Open-Ended QA;
@@ -42,6 +42,21 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 
 ### Conference/Journal Papers
 #### 2025 
+- RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives <a href="https://arxiv.org/pdf/2503.21459" target="_blank"/>[Paper]
+- MovieChat+: Question-aware Sparse Memory for Long Video Question Answering <a href="https://ieeexplore.ieee.org/abstract/document/11146594?casa_token=wfEY3s6gMfcAAAAA:82X04yDX3HQV7oexWLDP9e8VrffBsEUsaJrIhappD7cNnSkcVG7LuKGHtgtsquprKcFYtA&signout=success" target="_blank"/>[Paper]
+- Object-centric Video Question Answering with Visual Grounding and Referring <a href="https://arxiv.org/abs/2507.19599"  target="_blank"/>[Paper]
+- VideoForest: Person-Anchored Hierarchical Reasoning for Cross-Video Question Answering <a href="https://arxiv.org/abs/2508.03039" target="_blank"/>[Paper]
+- LeAdQA: LLM-Driven Context-Aware Temporal Grounding for Video Question Answering <a href="https://arxiv.org/abs/2507.14784" target="_blank"/>[Paper]
+- Enhancing Long Video Question Answering with Scene-Localized Frame Grouping <a href="https://arxiv.org/abs/2508.03009" target="_blank"/>[Paper]
+- VisiQuest:Video-Question Answering with Advanced Vision-Language AI <a href="https://ieeexplore.ieee.org/abstract/document/11118375?casa_token=Su8gwzgyc1YAAAAA:vvdSGRNuljHW-J8a80LbsO_KwdOLg6WyuInTxerl3OzIT91EsmIYPlWuyjgMtF3IrvflCw" target="_blank"/>[Paper]
+- Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning (**CVPR**) <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Commonsense_Video_Question_Answering_through_Video-Grounded_Entailment_Tree_Reasoning_CVPR_2025_paper.html" target="_blank"/>[Paper]
+- Question-Answering Dense Video Events (**ACM**) <a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3729945" target="_blank"/>[Paper]
+- CogStream: Context-guided Streaming Video Question Answering <a href="https://arxiv.org/pdf/2506.10516" target="_blank"/>[Paper]
+- VRAG: Retrieval-Augmented Video Question Answering for Long-Form Videos <a href="https://openaccess.thecvf.com/content/CVPR2025W/IViSE/papers/Gia_VRAG_Retrieval-Augmented_Video_Question_Answering_for_Long-Form_Videos_CVPRW_2025_paper.pdf" target="_blank"/>[Paper]
+- Advancing Egocentric Video Question Answering with Multimodal Large Language Models <a href="https://arxiv.org/pdf/2504.04550" target="_blank"/>[Paper]
+- Neuro Symbolic Knowledge Reasoning for Procedural Video Question Answering <a href="https://arxiv.org/abs/2503.14957" target="_blank"/>[Paper]
+- MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering <a href="https://arxiv.org/abs/2506.18071" target="_blank"/>[Paper]
+- MELA: Multi-Event Localization Answering Framework for Video Question Answering <a href="https://dl.acm.org/doi/pdf/10.1145/3672608.3707973" target="_blank"/>[Paper]
 - (Our Paper) InterAct Video: Reasoning-Rich Video QA for Urban Traffic <a href="https://arxiv.org/abs/2507.14743" target="_blank"/>[Paper]
 - HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding <a href="https://arxiv.org/abs/2501.01645" target="_blank"/>[Paper]
 - BIMBA: Selective-Scan Compression for Long-Range Video Question Answering <a href="https://arxiv.org/abs/2503.09590" target="_blank"/>[Paper]
@@ -249,6 +264,11 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 ##  Datasets
 | Year | Name | Key Features |
 |------|------|----------|
+|2025| [RoadSocial](https://huggingface.co/datasets/chiragp26/RoadSocial) | **RoadSocial** is a large-scale, diverse VideoQA resource for road events, derived from social media videos spanning **14M** frames and **414K** social comments, resulting in a dataset with **13.2K** videos, **674** unique tags, and **260K** high-quality QA pairs. |
+|2025| [CrossVideoQA](https://github.com/liriar/CrossVideoQA) | **CrossVideoQA** is a person-centric cross-video QA benchmark combining EOSD (surveillance) and HACS (web actions). EOSD: 20 videos across 3 indoor locations over 12 dates (~450K frames), suited for multi-day behavior analysis. HACS: 50K web videos with 1.55M action clips, offering high visual and semantic diversity. |
+|2025| [LVSQA](http://www.slfg.pkuzwh.cn/) | **LVSQA** is a long-video, scene-level QA dataset with **100** ≥30-minute videos (from LVBench) and **500** human-refined QA pairs designed from a purely visual perspective (minimal subtitle reliance). It targets detailed understanding—scene localization and fine-grained visual reasoning in long videos—using an MLLM-assisted, expert-edited creation pipeline.|
+|2025| [DeVE-QA](https://github.com/QHUni/DeVE-QA) | The **DeVE-QA** is a dataset featuring **78𝐾** questions about **26𝐾** events on **10.6𝐾** long videos.|
+|2025| [CogStream](https://github.com/LiamZhao326/CogStream) |  CogStream features a  collection of 6,361 videos from six public sources: MovieChat (40.2%), MECD (16.8%), QVhighlights (9.8%), VideoMME (6.5%), COIN (18.0%), and YouCook2 (8.6%). Scale: The final dataset comprises 1,088 high-quality videos and 59,032 QA pairs, formally split into a training set (852 videos) and a testing set (236 videos).|
 |2025| [InterAct-VideoQA](https://huggingface.co/datasets/joeWabbit/InterAct_Video_Reasoning_Rich_Video_QA_for_Urban_Traffic) | The **InterAct-VideoQA** dataset comprises of 8hrs of traffic intersection data with over **25k** Question answer pairs over **4** categories.|
 |2024| [NExT-GQA](https://github.com/doc-doc/NExT-GQA/tree/main)| The **NExT-GQA** dataset augments the NExT-QA dataset with temporal labels for Causal (“why/how”), Temporal (“before/when/after”) type questions. The annotations are done in a weakly supervised setup by labeling validation and test sets. **8,911** QA pairs from **1,557** videos are annotated with **10,531** valid temporal segments. |
 | 2024 | [MVBench](https://github.com/OpenGVLab/Ask-Anything/blob/main/video_chat2/MVBENCH.md)| The **MVBench**  dataset focuses on evaluating multi-modal video understanding by covering 20 complex video tasks that emphasize temporal reasoning, from perception to cognition.The MVBench dataset includes over **566,747** video clips from diverse sources, such as COCO, WebVid, YouCook2, and more. The dataset also covers a wide variety of task types, such as question-answering, captioning, and conversation tasks, with more than **200** multiple-choice questions generated for each temporal understanding task |
