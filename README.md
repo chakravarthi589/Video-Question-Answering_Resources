@@ -57,7 +57,6 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - Neuro Symbolic Knowledge Reasoning for Procedural Video Question Answering <a href="https://arxiv.org/abs/2503.14957" target="_blank"/>[Paper]
 - MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering <a href="https://arxiv.org/abs/2506.18071" target="_blank"/>[Paper]
 - MELA: Multi-Event Localization Answering Framework for Video Question Answering <a href="https://dl.acm.org/doi/pdf/10.1145/3672608.3707973" target="_blank"/>[Paper]
-- (Our Paper) InterAct Video: Reasoning-Rich Video QA for Urban Traffic <a href="https://arxiv.org/abs/2507.14743" target="_blank"/>[Paper]
 - HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding <a href="https://arxiv.org/abs/2501.01645" target="_blank"/>[Paper]
 - BIMBA: Selective-Scan Compression for Long-Range Video Question Answering <a href="https://arxiv.org/abs/2503.09590" target="_blank"/>[Paper]
 - Semantic Distance-Aware Cross-Modal Attention Mechanism for Video Question Answering <a href="https://ieeexplore.ieee.org/abstract/document/11007207" target="_blank"/>[Paper]
