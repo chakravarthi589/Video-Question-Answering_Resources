@@ -41,6 +41,9 @@ Video question answering (VideoQA), LLMs, Long video understanding, Spatial Reas
 - A survey on VQA: Datasets and approaches (2020, ITCA) <a href="https://doi.org/10.1109/ITCA52113.2020.00069" target="_blank">[Paper]
 
 ### Conference/Journal Papers
+#### 2026
+- GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents (**ACL**) <a href="https://arxiv.org/abs/2603.24329" target="_blank"/>[Paper]
+
 #### 2025 
 - RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives <a href="https://arxiv.org/pdf/2503.21459" target="_blank"/>[Paper]
 - MovieChat+: Question-aware Sparse Memory for Long Video Question Answering <a href="https://ieeexplore.ieee.org/abstract/document/11146594?casa_token=wfEY3s6gMfcAAAAA:82X04yDX3HQV7oexWLDP9e8VrffBsEUsaJrIhappD7cNnSkcVG7LuKGHtgtsquprKcFYtA&signout=success" target="_blank"/>[Paper]
